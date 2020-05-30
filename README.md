@@ -1,5 +1,5 @@
 # 이력서
-
+![업뎃](https://img.shields.io/github/last-commit/MaxKim-J/RESUME?color=blue&label=updated&style=flat-square) ![구직중](https://img.shields.io/badge/currently-unemployed-orange?style=flat-square)
 ## 프로필
 
 ### 인적사항
@@ -75,7 +75,7 @@
 - 맞춤 원단 추천 웹 서비스의 프론트엔드 개발에 참여했습니다.
 - 구현 기능
     - 초기 로딩 성능 향상을 위한 서버사이드 렌더링 구현(Next.js)
-    - 백엔드 서버에서 다수의 원단 정보를 가져와 메인화면에 표시하고, 클릭했을 때 제품 상세 페이지가 나오는 일반적인 커머스 서비스 구현
+    - 백엔드 서버에서 다수의 원단 정보를 가져와 메인화면에 표시하고, 클릭했을 때 해당 원단에 대한 상세 페이지가 나오는 일반적인 커머스 로직 구현
     - 스크롤을 이용한 데이터 패치(무한스크롤 상품 목록 업로드)
     - 백엔드에서 제공한 JWT 토큰을 이용한 로그인
 
@@ -102,7 +102,11 @@
 ## 활동
 ### 웹개발 동아리 피로그래밍(2019.6~2020.2)
 - 11기 회원으로 활동하며 다른 회원들과 웹 프레임워크 Django를 배우고 프로젝트를 진행했습니다.
-- 올해 1월부터 운영진으로 참여하며 [Git과 Github 시작하기](https://maxkim-j.github.io/posts/git-start), [React.js + TS로 투두리스트 만들기](https://www.notion.so/projectmaxkim/React-Essentials-4d320483511149bca7d216f621e81ec9) 등의 세션을 진행했습니다. 
+- 올해 1월부터 운영진으로 참여하며 12기 회원들을 대상으로 세션을 진행했습니다.
+- 진행한 세션 목록
+    - [Git과 Github 시작하기](https://maxkim-j.github.io/posts/git-start)
+    - Django에 필요한 Python 문법 알아보기
+    - [TypeScript와 React.js로 todo-list 만들기](https://www.notion.so/projectmaxkim/React-Essentials-4d320483511149bca7d216f621e81ec9) 
 
 ## 개인공부(레포지토리)
 ### [TIL](https://github.com/MaxKim-J/TIL)
