@@ -1,6 +1,6 @@
 # 이력서
 
-![업뎃](https://img.shields.io/github/last-commit/MaxKim-J/RESUME?color=blue&label=updated&style=flat-square) ![구직중](https://img.shields.io/badge/currently-unemployed-orange?style=flat-square)
+![업뎃](https://img.shields.io/github/last-commit/MaxKim-J/RESUME?color=blue&label=updated&style=flat-square) ![구직중](https://img.shields.io/badge/currently-employed-green)
 
 ## 프로필
 
@@ -22,7 +22,7 @@
 
 ### 자기소개
 
-휴학을 앞둔 대학생 자바스크립트 개발자로 React와 Vue를 사용한 웹 클라이언트 외주 개발, 개인 프로젝트를 경험했습니다. 아직 회사 근무 경력은 없습니다.
+대학생 자바스크립트 개발자로 React와 Vue를 사용한 웹 클라이언트 외주 개발, 개인 프로젝트를 경험했습니다. 현재는 트래블플랜에서 프론트엔드  엔지니어 인턴으로 일하고 있습니다.
 
 기술의 원리를 탐구하며 공부하는 것을 좋아하고 기록을 남기는 꾸준한 공부를 지향합니다. [TIL](https://github.com/MaxKim-J/TIL), [ALGO](https://github.com/MaxKim-J/Algo) 레포지토리, [개인 개발 블로그](https://maxkim-j.github.io/)에 기록을 남기며 공부하고 있습니다. 모르는 것이 있을 때는 질문보다 먼저 구글링합니다. 질문하지 않는 것은 아니지만 좋은 대답을 얻을 수 있는 좋은 질문의 필요성을 믿고, 더욱 명확한 질문을 하려고 노력합니다. 
 
@@ -38,12 +38,26 @@
 
 ## 주요 스택
 
+### client
+
 - HTML, CSS(SCSS)
 - JavaScript(ES6+, TypeScript)
-- Vue.js(+Vuex)
+- Vue.js(+Vuex, Nust)
 - React.js(+Next.js, Redux)
 - webpack
 - git, github
+
+### server
+
+- Express.js
+- Django
+
+## 경력
+
+### [TravelFlan(2020.7~)](https://www.travelflan.com/)
+
+- 인턴 프론트엔드 엔지니어
+- Vue.js(Nuxt.js)를 이용한 반응형 웹 개발
 
 ## 아웃소싱
 
