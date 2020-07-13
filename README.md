@@ -45,7 +45,6 @@
 - Vue.js(+Vuex, Nust)
 - React.js(+Next.js, Redux)
 - webpack
-- git, github
 
 ### server
 
