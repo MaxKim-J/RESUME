@@ -42,7 +42,7 @@
 
 - HTML, CSS(SCSS)
 - JavaScript(ES6+, TypeScript)
-- Vue.js(+Vuex, Nust)
+- Vue.js(+Nuxt.js, Vuex)
 - React.js(+Next.js, Redux)
 - webpack
 
