@@ -160,3 +160,12 @@ chrome 확장 앱 [외대 종강시계](https://chrome.google.com/webstore/detai
 
 - 스택 학습을 위한 튜토리얼 레포지토리를 모아놓은 organization 저장소입니다.
 - 최근에는 프론트엔드 라이브러리의 근간을 이루는 컴포넌트, 가상 DOM, 상태관리 앱을 [바닐라 JS로 구현해보며 원리를 익히는 연습](https://github.com/max-kim-tutorial/vanilla-wonderland), [React Hooks 레퍼런스 정리](https://github.com/max-kim-tutorial/react-hooks-tutorial), [D3를 실무에 도입하기 위해 사용법을 익히는 연습](https://github.com/max-kim-tutorial/d3-attach-to-vue)을 진행했습니다.
+
+
+## 지인 평가
+
+> 지인 평가를 PR로 받고 있습니다.
+
+### [신한결](https://github.com/Neulhan) - (피로그래밍 11기, 로앤굿 개발팀)
+
+> 스스로 공부하고 성장할 줄 아는 개발자입니다. 주도적으로 완결된 프로젝트를 만들어낼 수 있는 역량을 가진 멋있는 개발자이기도 합니다. 종혁이형과 이야기를 나누면 늘 새로운 것을 배우게 됩니다.
