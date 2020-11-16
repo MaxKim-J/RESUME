@@ -78,7 +78,7 @@ chrome 확장 앱 [외대 종강시계](https://chrome.google.com/webstore/detai
 
 ### 1. 키위블랙
 
-> 프로젝트 기간 : 2020.3 ~ 2020.5
+> 프로젝트 기간 : 2020.3 ~ 2020.5  
 회사명 : 디알코퍼레이션
 - 맞춤 원단 추천 웹 서비스 프론트엔드 개발에 참여했습니다. 유저에게 해당하는 맞춤 원단 정보를 백엔드에서 요청해 화면에 표시하는 로직을 구현했습니다. 
 - 많은 원단 정보를 불러와야 하는 서비스의 특성상, 초기 웹페이지 로딩 성능을 향상시키기 위해 Next.js를 이용한 서버사이드 렌더링을 구현했습니다.
@@ -89,7 +89,7 @@ chrome 확장 앱 [외대 종강시계](https://chrome.google.com/webstore/detai
 
 ### [1. 판례요지봇](https://github.com/MaxKim-J/supreme-court-API)
 
-> 프로젝트 기간: 2020.7 ~ 2020.9
+> 프로젝트 기간: 2020.7 ~ 2020.9  
 스택: Server(Express.js, postrgreSQL, jest, twitter API), Client(React.js, Redux, Redux Saga)
 - 대한민국 법원 법령정보 웹사이트의 대법원 공개 판례를 크롤링하여 하루 3번씩 판례요지의 한 단락을 트윗하는 트윗봇입니다.
 - 트위터에 로스쿨 재학생 커뮤니티가 어느정도 형성되어 있다는 점을 인지하여 기획을 진행했습니다.
@@ -101,7 +101,7 @@ chrome 확장 앱 [외대 종강시계](https://chrome.google.com/webstore/detai
 
 ### [2. 한국외대 이중전공 DB](https://github.com/MaxKim-J/HUFS-Second-Major-Visualize)
 
-> 프로젝트 기간 : 2020.4 ~ 2020.5
+> 프로젝트 기간 : 2020.4 ~ 2020.5  
 스택 : React.js, TypeScript, styled-components, redux
 - 한국외대 학생들의 이중전공 지원 관련 데이터를 시각화하여 제공하는 웹서비스를 개발했습니다.
 - 학교 홈페이지 공지사항의 엑셀 파일을 파싱한 데이터를 라이브러리(recharts.js) 를 이용해 시각화했습니다.
@@ -110,7 +110,7 @@ chrome 확장 앱 [외대 종강시계](https://chrome.google.com/webstore/detai
 
 ### [3. 개인 기술 블로그](https://maxkim-j.github.io/)
 
-> 프로젝트 기간: 2020.2~2020.3
+> 프로젝트 기간: 2020.2~2020.3  
 스택: Jekyll, Github-pages
 
 - 개발과 관련된 포스팅을 업로드하는 개인 기술 블로그입니다.
@@ -119,7 +119,7 @@ chrome 확장 앱 [외대 종강시계](https://chrome.google.com/webstore/detai
 
 ### [4. 외대 종강시계](https://github.com/MaxKim-J/HUFS-Semester-Clock-Extension)
 
-> 프로젝트 기간: 2019.11~ 2020.4
+> 프로젝트 기간: 2019.11~ 2020.4  
 스택 : Vue.js, Vuex, Sass/SCSS, Firebase
 
 - 한국외대 학생들에게 종강까지 남은 시간 정보와 학사공지, 학교 주변 날씨 정보를 조회하는 편의 기능을 제공하는 크롬 new tab 확장기능을 개발했습니다.
