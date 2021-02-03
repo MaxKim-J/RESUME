@@ -2,7 +2,7 @@
 
 ![업뎃](https://img.shields.io/github/last-commit/MaxKim-J/RESUME?color=blue&label=updated&style=flat-square) ![구직중x](https://img.shields.io/badge/currently-employed-green)
 
-> 👨🏻‍💻 2021년 1월 기준 재직중입니다!
+> 👨🏻‍💻 2021년 1월부터 재직중입니다!
 > 📝 레포지토리 링크의 노션 이력서는 구직중일때만 공개됩니다!
 
 ## 프로필
