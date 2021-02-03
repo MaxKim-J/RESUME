@@ -70,7 +70,7 @@ chrome 확장 앱 [외대 종강시계](https://chrome.google.com/webstore/detai
 
 ### [모예(2021.01 ~ 현재 재직 중) ](https://moye.kr/)
 
-> 신인 디자이너와 브랜드의 성공적인 런칭을 돕는 프리오더, 메이커스 서비스 스타트업
+> 신인 패션 디자이너와 브랜드의 성공적인 런칭을 돕는 프리오더, 메이커스 서비스 스타트업
 
 - **프론트엔드 개발자** : React, React Native를 이용한 클라이언트 개발
 ### [TravelFlan(2020.07 ~ 2021.01) - 6개월](https://www.travelflan.com/)
