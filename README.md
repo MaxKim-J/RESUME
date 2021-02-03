@@ -2,16 +2,18 @@
 
 ![업뎃](https://img.shields.io/github/last-commit/MaxKim-J/RESUME?color=blue&label=updated&style=flat-square) ![구직중x](https://img.shields.io/badge/currently-employed-green)
 
-> 👨🏻‍💻 2021년 1월부터 재직중입니다!
+> 👨🏻‍💻 2021년 1월부터 재직중입니다!  
 > 📝 레포지토리 링크의 노션 이력서는 구직중일때만 공개됩니다!
 
 ## 프로필
 
 ### 인적사항
 
-![사진](https://maxkim-j.github.io/assets/img/52434807.jpeg)  
+<div align="center">
+    <img src="https://maxkim-j.github.io/assets/img/52434807.jpeg" width="300">
 
 **안녕하세요! JavaScript 엔지니어이자 문서화 덕후, 김종혁입니다.**
+</div>
 
 - 이름 : 김종혁
 - 영문명 : Max Jonghyuk Kim
