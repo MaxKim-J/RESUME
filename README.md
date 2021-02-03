@@ -1,6 +1,8 @@
 # 이력서
 
-![업뎃](https://img.shields.io/github/last-commit/MaxKim-J/RESUME?color=blue&label=updated&style=flat-square) ![구직중](https://img.shields.io/badge/currently-employed-green)
+![업뎃](https://img.shields.io/github/last-commit/MaxKim-J/RESUME?color=blue&label=updated&style=flat-square) ![구직중x](https://img.shields.io/badge/currently-employed-green)
+
+> 👨🏻‍💻 2021년 1월 기준 재직중입니다!
 
 ## 프로필
 
@@ -22,7 +24,7 @@
 
 ### 자기소개
 
-대학생 자바스크립트 개발자로 React와 Vue를 사용한 웹 클라이언트 외주 개발, 개인 프로젝트, 엔지니어 10명 규모의 스타트업에서 개발자 인턴을 경험했습니다.
+대학생 자바스크립트 개발자로 React와 Vue를 사용한 웹 클라이언트 외주 개발, 개인 프로젝트, 엔지니어 10명 규모의 스타트업에서 개발자 인턴을 경험했습니다. 현재 패션 프리오더 서비스 스타트업 [모예](https://moye.kr/)에서 프론트엔드 개발자로 재직중입니다.
 
 기술의 원리를 탐구하며 공부하는 것을 좋아하고 기록을 남기는 꾸준한 공부를 지향합니다. [TIL](https://github.com/MaxKim-J/TIL), [ALGO](https://github.com/MaxKim-J/Algo), [튜토리얼](https://github.com/max-kim-tutorial) 레포지토리, 개인 [기술 블로그](https://maxkim-j.github.io/)에 기록을 남기며 공부하고 있습니다. 무언가를 잘 이해하고 있다면 간단하게 설명할 수 있어야 한다는 생각으로 이해한 바를 글로 설명하는 연습을 계속하고 있습니다. 
 
@@ -54,16 +56,14 @@ chrome 확장 앱 [외대 종강시계](https://chrome.google.com/webstore/detai
 
 ### server
 
-- Express.js
-- Nest.js
-- passport.js
+- Express.js(+TypeORM, passport.js)
 - postgreSQL
 
 ### etc
 
 - **Crawling** : cheerio, puppeteer
 - **Vector Graphic** : SVG, D3.js
-- **TDD** : jest
+- **Test** : jest, storybook
 - **Infrastructure** : AWS S3, EC2, EB, ELB, Firebase Functions(serverless)
 
 ## 경력
@@ -72,15 +72,24 @@ chrome 확장 앱 [외대 종강시계](https://chrome.google.com/webstore/detai
 
 > 홍콩과 상하이에 본사를 두고 있는 글로벌 Chat Bot, AI 솔루션 스타트업
 
-- **인턴 프론트엔드 개발자** : Nuxt.js, Vue.js를 이용한 PWA, 반응형 웹 서비스, 백오피스 개발
+- **인턴 프론트엔드 개발자**
+- Nuxt.js, Vue.js를 이용한 PWA, 반응형 웹 서비스, 백오피스 개발
+- 사내 오픈소스 개발 : Django 서버와 클라이언트의 연결을 돕는 Data Adapting 라이브러리 [functional-flattener](https://github.com/MaxKim-J/functional-flattener) 기획 및 개발
+
+### [모예(2021.01 ~ ) ](https://moye.kr/)
+
+> 신인 디자이너와 브랜드의 성공적인 런칭을 돕는 프리오더, 메이커스 서비스 스타트업
+
+- **프론트엔드 개발자** : React, React Native를 이용한 클라이언트 개발
 
 ## 아웃소싱
 
-### 1. 키위블랙
+### 키위블랙
 
+> 디알코퍼레이션
 > 프로젝트 기간 : 2020.3 ~ 2020.5  
-회사명 : 디알코퍼레이션
-- 맞춤 원단 추천 웹 서비스 프론트엔드 개발에 참여했습니다. 유저에게 해당하는 맞춤 원단 정보를 백엔드에서 요청해 화면에 표시하는 로직을 구현했습니다. 
+
+- 맞춤 원단 추천 웹 서비스 프론트엔드 개발에 참여했습니다.
 - 많은 원단 정보를 불러와야 하는 서비스의 특성상, 초기 웹페이지 로딩 성능을 향상시키기 위해 Next.js를 이용한 서버사이드 렌더링을 구현했습니다.
 - Django 백엔드(REST API) 개발자, 기획자와의 협업을 경험했습니다.
 - 백엔드에서 제공한 JWT 토큰을 이용해 유저 인증을 구현했습니다.
@@ -147,14 +156,14 @@ chrome 확장 앱 [외대 종강시계](https://chrome.google.com/webstore/detai
 
 - 공부한 내용을 자유롭게 정리하는 레포지토리입니다. 공부한 내용을 간단하게 정리한 후 발전시켜 블로그에 포스팅합니다.
 
-### [ALGO](https://github.com/MaxKim-J/Algo)
+### [Algo](https://github.com/MaxKim-J/Algo)
 
 - 알고리즘 이론을 정리하고 Python으로 Promblem Solving을 연습하는 레포지토리입니다.
 - 커밋 규칙을 정하고 체계적으로 커밋하려 노력합니다.
 
-### [code-review-references](https://github.com/MaxKim-J/Code-Review-References)
+### [Arch](https://github.com/MaxKim-J/Arch)
 
-- 코드리뷰의 레퍼런스로 쓰일 만한 레퍼런스 링크들이나 소프트웨어 아키텍처에 대한 정리를 모아두는 저장소입니다.
+- 소프트웨어 아키텍처에 대한 공부 내용과 정리를 자유롭게 정리하는 저장소입니다.
 
 ### [max-kim-tutorial](https://github.com/max-kim-tutorial)
 
