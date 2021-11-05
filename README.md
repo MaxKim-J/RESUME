@@ -56,7 +56,6 @@ React Native를 사용한 모바일 클라이언트 개발을 경험했습니다
 - Redux Toolkit 도입하여 Redux, Redux Saga를 이용한 [상태관리, 비동기 요청 로직 리팩토링](https://maxkim-j.github.io/posts/redux-store-structure)
   - Redux Toolkit Slice, Saga Entity 패턴 도입을 통한 Redux 관련 로직 대폭 간소화
   - 각 컴포넌트에 흩어져있던 비동기 요청 상태들을 Redux Store로 일원화하여 코드 응집도 향상
-- Git Submodule를 이용한 React와 React Native앱 간 공통 모듈 공유 전략 리서치 및 구현
 - OpenAPI Spec 기반 개발 방식 도입하여 백엔드와 프론트엔드간 소통 향상
 - React Native 빌드시 발생하는 오류 수집 및 문서화
 
