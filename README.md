@@ -108,7 +108,7 @@ React Native를 사용한 모바일 클라이언트 개발을 경험했습니다
 
 - 11기 회원으로 활동하며 다른 회원들과 Python과 Django 스터디를 진행했습니다.
 - Django를 이용하여 오프라인 스터디를 관리하는 웹 서비스를 만드는 프로젝트를 진행했습니다.
-- 2020년 1월부터 6개월여동안 12기 운영진으로 참여하며 12기 회원들을 대상으로 세션을 진행했습니다.
+- 2020년 1월부터는 12기 운영진으로 참여하며 12기 회원들을 대상으로 세션을 진행했습니다.
   - [Git과 Github 시작하기](https://maxkim-j.github.io/posts/git-start)
   - [Python Before Django(PBD)](https://colab.research.google.com/drive/1_xQfvy0w4Z3ogbbaO26V4hHrVEuWU2s1?usp=sharing)
   - [TypeScript와 React.js로 todo-list 만들기](https://www.notion.so/projectmaxkim/React-Essentials-4d320483511149bca7d216f621e81ec9) 
