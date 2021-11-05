@@ -37,16 +37,17 @@ React Native를 사용한 모바일 클라이언트 개발을 경험했습니다
 여러가지 업무 상황에서 발생한 문제에 대해, 상황에 맞는 최적의 방법을 찾고자 합니다.
 집요하게 리서치하고 실험하며 해결책에 대해 검증하고, 동료 개발자들의 피드백을 얻는 것을 좋아합니다.
 
-# 경력
+## 경력
 
-## [모예(2021.01 ~ 2021.08)](https://moye.kr/)
+### [모예(2021.01 ~ 2021.08)](https://moye.kr/)
 
 > 신인 패션 디자이너와 브랜드의 성공적인 런칭을 돕는 프리오더 서비스 스타트업
 - **프론트엔드 개발자** : React, React Native를 이용한 웹, 모바일 애플리케이션 개발
-  - 모예 모바일 앱 애플리케이션(ios/android)
+  - 모예 모바일 앱 애플리케이션([ios](https://apps.apple.com/kr/app/moye-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%8C%A8%EC%85%98%EC%9D%84-%EA%B0%80%EC%9E%A5-%EB%A8%BC%EC%A0%80/id1561711601)/
+[android](https://play.google.com/store/apps/details?id=kr.moye.app))
   - [모예 웹 애플리케이션](https://moye.kr/)
 
-### 주요 업무 성과
+#### 주요 업무 성과
 
 - ESlint, Webpack Alias를 이용한 lint rule, path alias 도입으로 개발 용이성 재고
 - Github Actions를 사용한 앱,웹 서비스 CI/CD 파이프라인 구축을 통한 팀 생산성 향상
@@ -59,7 +60,7 @@ React Native를 사용한 모바일 클라이언트 개발을 경험했습니다
 - OpenAPI Spec 기반 개발 방식 도입하여 백엔드와 프론트엔드간 소통 향상
 - React Native 빌드시 발생하는 오류 수집 및 문서화
 
-## [FREED GROUP(2020.07 ~ 2021.01)](https://www.freed.group/)
+### [FREED GROUP(2020.07 ~ 2021.01)](https://www.freed.group/)
 
 > 홍콩과 상하이에 본사를 두고 있는 글로벌 Chat Bot, 웹앱 솔루션 스타트업
 - **인턴 프론트엔드 개발자** : Nuxt.js, Vue.js를 이용한 반응형 웹 서비스, 백오피스 SI 개발 업무 수행
@@ -67,7 +68,7 @@ React Native를 사용한 모바일 클라이언트 개발을 경험했습니다
   - Topas 여행정보 TripCody 웹앱 개발
   - 10000Lab 커피 문자 주문 솔루션 백오피스 개발
 
-### 주요 업무 성과
+#### 주요 업무 성과
 
 - [functional-flattener](https://github.com/MaxKim-J/functional-flattener) 라이브러리 제작 및 프로젝트에 적용하여 데이터 처리 로직 간소화
   - 서버가 보내주는 response 객체의 프로퍼티, 키의 casing 등을 method chaining을 통해 쉽게 수정할 수 있는 라이브러리
