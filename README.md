@@ -98,7 +98,7 @@
 
 ## 활동
 
-### 웹 개발 동아리 피로그래밍(2019.6~2020.2)
+### 웹 개발 동아리 - 피로그래밍(2019.6~2020.2)
 
 - 11기 회원으로 활동하며 다른 회원들과 Python과 Django 스터디를 진행했습니다.
 - Django를 이용하여 오프라인 스터디를 관리하는 웹 서비스를 만드는 프로젝트를 진행했습니다.
@@ -107,11 +107,9 @@
   - [Python Before Django(PBD)](https://colab.research.google.com/drive/1_xQfvy0w4Z3ogbbaO26V4hHrVEuWU2s1?usp=sharing)
   - [TypeScript와 React.js로 todo-list 만들기](https://www.notion.so/projectmaxkim/React-Essentials-4d320483511149bca7d216f621e81ec9) 
 
-### 주간 기술 동향(2021.1~)
+### 세션 스터디 - 주간 기술 동향(2021.1~)
 
-정기적으로 기술 세션을 준비하고 다른 동료 개발자들 앞에서 
-
-- 저 포함 8명의 개발자들과 매주 일요일 오전 10시에 원격으로 기술 세션 스터디를 진행하고 있습니다.
+- 저 포함 9명의 개발자들이 매주 일요일 오전 10시에 원격으로 기술 세션 스터디를 진행하고 있습니다.
 - 한 달에 한 번 관심있는 기술적 주제를 조사해 45분 정도 되는 기술 세션을 진행합니다.
 - [세션 자료 모음](https://projectmaxkim.notion.site/Max-19126f9a722b48bd89f3b11c530a23ac)
 
