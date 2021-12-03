@@ -44,6 +44,7 @@
 
 #### 주요 업무 성과
 
+- 디자인 시스템, 프로젝트 구조 개선
 - ESlint, Webpack Alias를 이용한 lint rule, path alias 도입으로 개발 용이성 재고
 - Github Actions를 사용한 앱,웹 서비스 CI/CD 파이프라인 구축을 통한 팀 생산성 향상
   - 모바일 앱 배포 자동화 도구(fastlane, codepush)를 이용한 [React Native 모바일 앱 CI/CD 구축](https://maxkim-j.github.io/posts/react-native-ci-cd)
@@ -51,7 +52,7 @@
 - Redux Toolkit 도입하여 Redux, Redux Saga를 이용한 [상태관리, 비동기 요청 로직 리팩토링](https://maxkim-j.github.io/posts/redux-store-structure)
   - Redux Toolkit Slice, Saga Entity 패턴 도입을 통한 Redux 관련 로직 대폭 간소화
   - 각 컴포넌트에 흩어져있던 비동기 요청 상태들을 Redux Store로 일원화하여 코드 응집도 향상
-- OpenAPI Spec 기반 개발 방식 도입하여 백엔드와 프론트엔드간 소통 향상
+- [OpenAPI Spec 기반 개발 방식](https://projectmaxkim.notion.site/0228-OpenAPI-46c3c26970b2407eb8c4b063bf0bff55) 도입하여 백엔드와 프론트엔드간 소통 향상
 - React Native 빌드시 발생하는 오류 수집 및 문서화
 
 ### [FREED GROUP(2020.07 ~ 2021.01)](https://www.freed.group/)
