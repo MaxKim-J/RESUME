@@ -24,18 +24,13 @@
 
 ## 자기소개
 
-엔지니어링과 문서화를 좋아하는 주니어 프론트엔드 개발자입니다. 시드, 시리즈 A 단계의 스타트업에서 React, Vue를 사용한 웹 클라이언트 개발과 
-React Native를 사용한 모바일 클라이언트 개발을 경험했습니다.
+안녕하세요! 최적의 문제 해결과 기술 공유를 좋아하는 주니어 프론트엔드 개발자 김종혁입니다.
 
-공개된 다양한 지표들을 토대로, 제가 만드는 프로덕트가 비즈니스에 어떤 임팩트를 끼치는지 파악하는 것을 좋아합니다.
-그래서 비즈니스 지표들이 많이 공개되어 있는 조직을 좋아합니다.
+**초기 단계 스타트업에서 스스로 학습하는 방법을 깨우치며 성장해왔습니다.** 작은 규모의 개발팀에서 조직의 한정된 리소스를 고려하며, 업무 중 발생한 여러 기술적 문제들에 대한 최적의 방법을 찾으려 노력했습니다. 가능한 시간 속에서 집요하게 리서치하고 실험하며 해결책에 대해 검증하고, 동료 개발자들의 피드백을 얻어 다수의 기술적 문제들을 해결했습니다.
 
-지식과 경험을 문서로 정리하는 것을 좋아합니다. 회사 재직 중 팀원들에게 제가 작성한 블로그 글, 공부한 내용
-등을 정리해 공유하는데서 보람을 느꼈습니다. 지식과 경험을 보기 좋은 문서로 정리해 팀에게 
-좋은 인사이트를 줄 수 있는 개발자가 되고자 합니다.
+**2개의 개인 프로젝트를 실서비스로 배포하고 1년 넘게 유지・보수하고 있습니다.** 서비스를 사용하는 유저들에게 좋은 경험을 전달하기 위해 노력했습니다. UX와 최적화에 대해 고민하면서, 여러 창구를 통해 유저의 피드백을 적극적으로 수집하여 이를 서비스 개선에 반영해왔습니다. 제가 만든 서비스가 유저에게 실질적인 도움이 될 때 가장 큰 보람을 느끼며, 책임감과 애착을 가지고 서비스 개선에 임해왔습니다.
 
-여러가지 업무 상황에서 발생한 문제에 대해, 상황에 맞는 최적의 방법을 찾고자 합니다.
-집요하게 리서치하고 실험하며 해결책에 대해 검증하고, 동료 개발자들의 피드백을 얻는 것을 좋아합니다.
+**지식과 경험을 정리하고 공유하는 것을 좋아합니다.** 개인 기술 블로그에 게시한 40여개의 포스팅에서 지난 1년동안 약 22만건의 검색 노출이 발생했습니다. 정기 기술 세션 스터디에 1년 넘게 참가하며 20번의 원격 기술 세션을 진행했습니다. 회사 재직 중에는 팀원들에게 제가 작성한 블로그 포스팅이나 공부한 내용 등을 정리해 공유하는데서 많은 보람을 느꼈습니다. 지식과 경험을 보기 좋은 문서와 세션으로 정리해 팀에게 좋은 인사이트를 주며 팀과 같이 성장하는 개발자가 되고자 합니다.
 
 ## 경력
 
@@ -112,7 +107,9 @@ React Native를 사용한 모바일 클라이언트 개발을 경험했습니다
   - [Python Before Django(PBD)](https://colab.research.google.com/drive/1_xQfvy0w4Z3ogbbaO26V4hHrVEuWU2s1?usp=sharing)
   - [TypeScript와 React.js로 todo-list 만들기](https://www.notion.so/projectmaxkim/React-Essentials-4d320483511149bca7d216f621e81ec9) 
 
-### 일요 기술 스터디(2021.1~)
+### 주간 기술 동향(2021.1~)
+
+정기적으로 기술 세션을 준비하고 다른 동료 개발자들 앞에서 
 
 - 저 포함 8명의 개발자들과 매주 일요일 오전 10시에 원격으로 기술 세션 스터디를 진행하고 있습니다.
 - 한 달에 한 번 관심있는 기술적 주제를 조사해 45분 정도 되는 기술 세션을 진행합니다.
@@ -137,15 +134,16 @@ React Native를 사용한 모바일 클라이언트 개발을 경험했습니다
 
 ## 주요 스택
 
-- Client: HTML, CSS(SCSS), JavaScript(ES6+), TypeScript, Vue.js(+Nuxt.js, Vuex), React.js(+Redux, Redux Saga, Styled Components), Webpack, Rollup, Babel
+- Client: HTML(A11Y), CSS(SCSS, CSS-in-JS), JavaScript(ES6+), TypeScript, Vue.js(Vue2, Nuxt.js, Vuex), React.js(Next.js, Redux, Redux Saga, React Query, Recoil), React Native, Webpack, Rollup, Babel
 - Server: Express.js, TypeORM
-- Infrastructure : AWS S3, EC2, CloudFront, Route53, Firebase Functions(serverless)
 - Test : puppeteer, jest, storybook
-
+- Infrastructure : AWS(S3, EC2, CloudFront, Route53, Elastic Beanstalk, Lambda), Firebase(Functions, Dynamic Link, Realtime Database)
+- etc: python
 ## 학력
 
 **한국외국어대학교**
 
+- 서울캠퍼스
 - 영어대학 영미문학 ・ 문화학과 
 - 융복합소프트웨어 이중전공
 - 2022.6 졸업 예정
