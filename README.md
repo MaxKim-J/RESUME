@@ -1,12 +1,9 @@
 # 이력서
 
-![업뎃](https://img.shields.io/github/last-commit/MaxKim-J/RESUME?color=blue&label=updated&style=flat-square) ![구직중x](https://img.shields.io/badge/currently-unemployed-green)
+![업뎃](https://img.shields.io/github/last-commit/MaxKim-J/RESUME?color=blue&label=updated&style=flat-square) ![직장유무](https://img.shields.io/badge/currently-unemployed-green) ![구직중 여부](https://img.shields.io/badge/Am%20I%20looking%20for%20a%20job%20now%3F-No-orange)
 
 > 👔 현재 구직중이 아닙니다. 2022.2월 이후부터 구직 시작 예정입니다.  
-
-> 📝 레포지토리 링크의 노션 이력서는 구직중일때만 공개됩니다!
-
-> ☕️ 커피챗, 지원 제안은 메일(hwaseen@gmail.com)로 연락주세요!
+☕️ 커피챗, 지원 제안은 받습니다. 메일(hwaseen@gmail.com)로 연락주세요!
 
 ## 프로필
 
