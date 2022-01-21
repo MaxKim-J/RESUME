@@ -45,7 +45,7 @@
   - 기존의 Atomic Design System 기반의 디자인 시스템을 해체하고, 팀의 실정에 맞는 방법으로 컴포넌트 디렉토리 구조를 개선했습니다.
   - 효과적인 디자이너-개발자간 협업을 위한 업무 방법을 제안했습니다.
 - Github Actions를 사용한 앱,웹 서비스 CI/CD 파이프라인 구축을 통한 팀 생산성 향상을 도모했습니다.
-  - 모바일 앱 배포 자동화 도구(fastlane, codepush)를 이용해 [React Native 모바일 앱 CI/CD 구축](https://maxkim-j.github.io/posts/react-native-ci-cd)했습니다.
+  - 모바일 앱 배포 자동화 도구(fastlane, codepush)를 이용해 [React Native 모바일 앱 CI/CD](https://maxkim-j.github.io/posts/react-native-ci-cd)를 구축했습니다.
   - AWS(S3, CloudFront, Route53)를 이용한 React 웹앱 CI/CD를 구축했습니다.
 - Redux Toolkit을 도입하여 Redux, Redux Saga를 이용한 [상태관리, 비동기 요청 로직 리팩토링](https://maxkim-j.github.io/posts/redux-store-structure) 업무를 진행했습니다.
   - Redux Toolkit Slice, Saga Entity 패턴 도입을 통한 Redux 관련 로직을 간소화했습니다.
@@ -62,7 +62,7 @@
 
 #### 주요 업무 성과
 
-- [functional-flattener](https://github.com/MaxKim-J/functional-flattener) 라이브러리 제작 및 프로젝트에 적용하여 데이터 처리 로직을 간소화했습니다.
+- [functional-flattener](https://github.com/MaxKim-J/functional-flattener) 라이브러리를 제작하고 SI 프로젝트에 적용하여 데이터 처리 로직을 간소화했습니다.
   - 서버가 보내주는 response 객체의 프로퍼티, 키의 casing 등을 method chaining을 통해 쉽게 수정할 수 있는 라이브러리입니다.
   - 명령형 프로그래밍으로 작성된 장황한 데이터 가공 로직을 제거했습니다.
 - 상하이 지사 외국인 개발자, 대기업 직원(클라이언트) 등과의 협업을 경험했습니다.
@@ -77,9 +77,9 @@
 > 프로젝트 기간: 2020.7 ~ 유지보수 중  
 스택: Next.js(+Typescript), Emotion, Firebase Functions, Firebase Firestore, Puppeteer
 
-- 서버리스를 이용한 판례 요지 API, 크롤러, 트윗봇 및 판례 요지 본문을 조회할 수 있는 웹 클라이언트를 개발했습니다.
-- 2022년 1월에 기존 Express + postgreSQL로 작성된 EC2 서버를 Firebase Functions 서버리스 서버로 이관하고, CRA 기반으로 작성되었던 클라이언트 웹앱 Next.js로 리라이팅했습니다.
-- SSR을 적용하여 판례 컨텐츠 종류에 따른 동적 메타 태그(image, title) 설정하여 유저 경험을 향상시켰습니다.
+- 서버리스를 이용한 **판례 요지 API**, **크롤러**, **트윗봇** 및 판례 요지 본문을 조회할 수 있는 **웹 클라이언트**를 개발했습니다.
+- 2022년 1월에 기존 Express + postgreSQL로 작성된 EC2 서버를 Firebase Functions 서버리스로 이관하고, CRA 기반으로 작성되었던 클라이언트 웹앱 Next.js로 리라이팅했습니다.
+- SSR을 적용하여 판례 컨텐츠 종류에 따른 동적 메타 태그를(image, title) 설정하여 사용자 경험을 향상시켰습니다.
 - Next.js의 Static Page 생성, ISR 활용하여 사용자 경험 및 페이지 로드 속도를 향상시켰습니다.
 - 대다수의 유저 유입 경로인 모바일에 최적화된 웹 UI를 구현했습니다.
 - [트윗봇 링크](https://twitter.com/precedent_bot), [판례보기 웹앱 링크](https://supreme-court-tweet-bot.vercel.app/) - 트위터 팔로워수 2022년 1월 기준 339명
@@ -96,7 +96,7 @@
 - [Suspense for Data Fetching](https://maxkim-j.github.io/posts/suspense-argibraic-effect)과 Error Boundary, React Query를 이용한 선언적 비동기 처리를 구현했습니다.
 - 최소한의 유저 인터랙션으로 종강시계 이외의 부가 기능을 쉽게 사용할 수 있는 새로운 디자인을 적용했습니다.
 - 코드 스플리팅을 적용하여 최초 다운로드되는 번들 크기를 줄이고, 애니메이션, 스켈레톤 UI 구현으로 사용자 경험을 향상시켰습니다.
-- Chrome Extension 보일러플레이트 Webpack으로 직접 구현했습니다.
+- Chrome Extension 보일러플레이트를 Webpack으로 직접 구현했습니다.
 - 코어 로직을 컴포넌트와 분리하고, 빠르게 적용할 수 있는 테스트 전략 연구∙적용하여 60여개의 테스트 코드를 작성했습니다.
 - [구글 웹스토어 링크](https://chrome.google.com/webstore/detail/%EC%99%B8%EB%8C%80-%EC%A2%85%EA%B0%95%EC%8B%9C%EA%B3%84/jadlpknbgnmmelikpcaogikohieafaem?hl=ko),[외대 종강시계 개발 후기(v1기준)](https://maxkim-j.github.io/posts/hufs-semester-clock)
 
@@ -110,9 +110,9 @@
 
 ### 세션 스터디 - 주간 기술 동향(2021.1~)
 
-저 포함 9명의 개발자들이 매주 일요일 오전 10시에 원격으로 기술 세션 스터디를 진행하고 있습니다.
-한 달에 한 번 관심있는 기술적 주제를 조사해 45분 정도 되는 기술 세션을 진행하며 기술과 경험을 다른 개발자들과 공유합니다.
-스터디의 최초 제안자로서 스터디 규칙 수립과 운영을 함께하고 있습니다.
+- 저 포함 9명의 개발자들이 매주 일요일 오전 10시에 원격으로 기술 세션 스터디를 진행하고 있습니다.  
+- 한 달에 한 번 관심있는 기술적 주제를 조사해 45분 정도 되는 기술 세션을 진행하며 기술과 경험을 다른 개발자들과 공유합니다.
+- 스터디의 최초 제안자로서 스터디 규칙 수립과 운영을 함께하고 있습니다.
 - [전체 세션 자료 모음](https://www.notion.so/f10ffc48ee02465593406f349fae1831?v=045095be421b4e17983bfd1abdfdcf70)
 - [개인 세션 자료 모음](https://projectmaxkim.notion.site/Max-19126f9a722b48bd89f3b11c530a23ac)
 
@@ -136,7 +136,7 @@
 
 - Client: HTML, CSS(SCSS, CSS-in-JS), JavaScript(ES6+), TypeScript, Vue.js(Vue2, Vuex), React.js(Next.js, Redux, Redux Saga, React Query, Recoil), React Native, Webpack, Babel
 - Server: Express.js, TypeORM
-- Test : puppeteer, jest, storybook
+- Test : jest, storybook, react-testing-library
 - Infrastructure : AWS(S3, EC2, CloudFront, Route53), Firebase(Functions, Dynamic Link, Realtime Database, firestore)
 - etc: python
 ## 학력
@@ -145,7 +145,7 @@
 
 - 서울캠퍼스
 - 영어대학 영미문학 ・ 문화학과 
-- 융복합소프트웨어 이중전공
+- AI 융합전공 AI & Software 트랙 이중전공(공학사)
 - 2022.6 졸업 예정
 
 ## 병역
