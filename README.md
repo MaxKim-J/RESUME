@@ -119,8 +119,6 @@
 
 ## 개인 공부
 
-### []
-
 ### [Algo](https://github.com/MaxKim-J/Algo)
 
 - 알고리즘 이론을 정리하고 Python, JavaScript로 알고리즘 풀이를 연습하는 레포지토리입니다.
