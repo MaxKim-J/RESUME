@@ -72,7 +72,7 @@
 
 ### [1. 판례요지봇](https://github.com/MaxKim-J/supreme-court-API)
 
-개인 프로젝트 : 대한민국 법원 법령정보 웹사이트의 대법원 공개 판례를 크롤링하여 하루 3번씩 판례요지의 한 단락을 트윗하는 트윗봇
+개인 프로젝트 : 대한민국 법원 법령정보 웹사이트의 대법원 공개 판례를 크롤링하여 하루 3번씩 판례요지의 한 단락을 트윗하는 트윗봇을 기획, 디자인, 개발 및 유지보수하고 있습니다.
 
 > 프로젝트 기간: 2020.7 ~ 유지보수 중  
 스택: Next.js(+Typescript), Emotion, Express, Firebase Functions, Firebase Firestore, Puppeteer
@@ -98,7 +98,7 @@
 - 코드 스플리팅을 적용하여 최초 다운로드되는 번들 크기를 줄이고, 애니메이션, 스켈레톤 UI 구현으로 사용자 경험을 향상시켰습니다.
 - Chrome Extension 보일러플레이트를 Webpack으로 처음부터 직접 구현했습니다.
 - 시맨틱 마크업을 준수하여 개발했고, 스크린 리더 디버깅을 병행하면서 웹 접근성을 향상시켰습니다.
-- 코어 로직을 컴포넌트와 분리하고, 빠르게 적용할 수 있는 테스트 전략을 연구하고 적용하여 60여개의 테스트 코드를 작성했습니다.
+- 코어 로직을 컴포넌트와 분리하고, [빠르게 적용할 수 있는 테스트 전략을 연구](https://maxkim-j.github.io/posts/effective-react-test-strategy)하고 적용하여 60여개의 테스트 코드를 작성했습니다.
 - [구글 웹스토어 링크](https://chrome.google.com/webstore/detail/%EC%99%B8%EB%8C%80-%EC%A2%85%EA%B0%95%EC%8B%9C%EA%B3%84/jadlpknbgnmmelikpcaogikohieafaem?hl=ko),[외대 종강시계 개발 후기(v1기준)](https://maxkim-j.github.io/posts/hufs-semester-clock)
 
 ## 활동
