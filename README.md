@@ -102,15 +102,15 @@
 - 시맨틱 마크업을 준수하여 개발했고, 스크린 리더 디버깅을 병행하면서 웹 접근성을 향상시켰습니다.
 - 코어 로직을 컴포넌트와 분리하고, [빠르게 적용할 수 있는 테스트 전략을 연구](https://maxkim-j.github.io/posts/effective-react-test-strategy)하고 적용하여 68개의 테스트 케이스를 작성했습니다.
 
-## 활동
+# 활동
 
-### 웹 개발 동아리 - 피로그래밍(2019.6~2020.2)
+## 웹 개발 동아리 - 피로그래밍(2019.6~2020.2)
 
 - 11기 회원으로 활동하며 다른 회원들과 Python과 Django 스터디에 참여했습니다.
 - Django를 이용하여 오프라인 스터디를 관리하는 웹 서비스 프로젝트를 수행했습니다.
 - 2020년 1월부터는 12기 운영진으로 참여하며, 12기 회원들을 대상으로 다수의 세션을 진행했습니다.
 
-### 세션 스터디 - 주간 기술 동향(2021.1~)
+## 세션 스터디 - 주간 기술 동향(2021.1~)
 
 - 저 포함 9명의 개발자들이 매주 일요일 오전 10시에 원격으로 기술 세션 스터디를 진행하고 있습니다.  
 - 한 달에 한 번 관심있는 기술적 주제를 조사해 45분 정도 되는 기술 세션을 진행하며 기술과 경험을 다른 개발자들과 공유합니다.
@@ -118,27 +118,27 @@
 - [전체 세션 자료 모음](https://www.notion.so/f10ffc48ee02465593406f349fae1831?v=045095be421b4e17983bfd1abdfdcf70)
 - [개인 세션 자료 모음](https://projectmaxkim.notion.site/Max-19126f9a722b48bd89f3b11c530a23ac)
 
-## 개인 공부
+# 개인 공부
 
-### [Algo](https://github.com/MaxKim-J/Algo)
+## [Algo](https://github.com/MaxKim-J/Algo)
 
 - 알고리즘 이론을 정리하고 Python, JavaScript로 알고리즘 풀이를 연습하는 레포지토리입니다.
 - [Github Actions과 Slack을 연동](https://maxkim-j.github.io/posts/github-actions-slack-bot)하여 매주, 매월 알고리즘 풀이 진척 사항을 개인 슬랙 알림으로 받고 있습니다.
 - 커밋 규칙을 정하고 체계적으로 커밋하려 노력합니다.
 
-### [client-advanced](https://github.com/max-kim-tutorial/client-advanced)
+## [client-advanced](https://github.com/max-kim-tutorial/client-advanced)
 
 - 웹 클라이언트와 관련해 진행한 공부를 문서로 정리해놓는 레포지토리입니다.
 
 
-## 주요 스택
+# 주요 스택
 
 - Client: HTML, CSS(SCSS, CSS-in-JS), JavaScript(ES6+), TypeScript, Vue.js(Vue2, Vuex), React.js(Next.js, Redux, Redux Saga, React Query, Recoil), React Native, Webpack, Babel
 - Server: Express.js, TypeORM
 - Test : jest, storybook, react-testing-library
 - Infrastructure : AWS(S3, EC2, CloudFront, Route53), Firebase(Functions, Dynamic Link, Realtime Database, firestore)
 - etc: python
-## 학력
+# 학력
 
 **한국외국어대학교**
 
@@ -147,6 +147,6 @@
 - AI 융합전공 AI & Software 트랙 이중전공(공학사)
 - 2022.6 졸업 예정
 
-## 병역
+# 병역
 
 공군 병장 만기 전역(2016.12 ~ 2018.12)
