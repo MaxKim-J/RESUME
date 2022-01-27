@@ -15,9 +15,8 @@
 - 이메일 : hwaseen@gmail.com
 
 
-> [깃헙 프로필 : MaxKim-J](https://github.com/MaxKim-J)  
-
-> [맥스킴 기술 블로그](https://maxkim-j.github.io/)
+> [깃헙 프로필](https://github.com/MaxKim-J)  
+[맥스킴 기술 블로그](https://maxkim-j.github.io/)
 
 ## 자기소개
 
