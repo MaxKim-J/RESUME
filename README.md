@@ -5,7 +5,7 @@
 > 👔 현재 구직중이 아닙니다. 2022.2월 이후부터 구직 시작 예정입니다.  
 ☕️ 커피챗, 지원 제안은 감사히 받습니다. 메일(hwaseen@gmail.com)로 연락주세요!
 
-## 프로필
+# 프로필
 
 <img src="https://maxkim-j.github.io/assets/img/52434807.jpeg" width="300">
 
@@ -19,7 +19,7 @@
 
 > [맥스킴 기술 블로그](https://maxkim-j.github.io/)
 
-## 자기소개
+# 자기소개
 
 안녕하세요! 최적의 문제 해결과 기술 공유를 좋아하는 주니어 프론트엔드 개발자 김종혁입니다.
 
@@ -29,17 +29,18 @@
 
 **지식과 경험을 정리하고 공유하는 것을 좋아합니다.** 기술 블로그를 운영하며 지식과 경험을 정리하고, 매주 기술 세션 스터디에 참여하며 원격 기술 세션을 진행하고 있습니다. 지식과 경험을 보기 좋은 문서와 세션으로 정리하고 공유하면서 "같이 성장하는" 개발자가 되고자 합니다.
 
-## 경력
+# 경력
 
-### [모예(2021.01 ~ 2021.08)](https://moye.kr/)
+## [모예(2021.01 ~ 2021.08)](https://moye.kr/)
 
 > 신인 패션 디자이너와 브랜드의 성공적인 런칭을 돕는 프리오더 서비스 스타트업
-- **프론트엔드 개발자** : React, React Native를 이용한 웹, 모바일 애플리케이션 개발
+
+**프론트엔드 개발자** : React, React Native를 이용한 웹, 모바일 애플리케이션 개발
   - 모예 모바일 앱 애플리케이션([ios](https://apps.apple.com/kr/app/moye-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%8C%A8%EC%85%98%EC%9D%84-%EA%B0%80%EC%9E%A5-%EB%A8%BC%EC%A0%80/id1561711601)/
 [android](https://play.google.com/store/apps/details?id=kr.moye.app))
   - [모예 웹 애플리케이션](https://moye.kr/)
 
-#### 주요 업무 성과
+### 주요 업무
 
 - 프로젝트 컴포넌트 디렉토리 및 디자인 시스템 개선에 기여했습니다.
   - 기존의 Atomic Design System 기반의 디자인 시스템을 해체하고, 팀의 실정에 맞는 방법으로 컴포넌트 디렉토리 구조를 개선했습니다.
@@ -52,15 +53,16 @@
   - 각 컴포넌트에 흩어져있던 비동기 요청 상태들을 Redux Store로 일원화하여 코드 응집도를 향상시켰습니다.
 - [OpenAPI Spec 기반 개발 방식](https://projectmaxkim.notion.site/0228-OpenAPI-46c3c26970b2407eb8c4b063bf0bff55)을 도입하여 백엔드와 프론트엔드간 소통 향상에 기여했습니다.
 
-### [FREED GROUP(2020.07 ~ 2021.01)](https://www.freed.group/)
+## [FREED GROUP(2020.07 ~ 2021.01)](https://www.freed.group/)
 
 > 글로벌 Chat Bot, 웹앱 솔루션 스타트업
-- **인턴 프론트엔드 개발자** : Nuxt.js, Vue.js를 이용한 반응형 웹 서비스, 백오피스 SI 개발 업무 수행
+
+**인턴 프론트엔드 개발자** : Nuxt.js, Vue.js를 이용한 반응형 웹 서비스, 백오피스 SI 개발 업무 수행
   - 자체 커머스 [아라 특가](https://ara.travelflan.com) UI 리뉴얼 작업
   - Topas 여행정보 TripCody 웹앱 개발
   - 10000Lab 커피 문자 주문 솔루션 백오피스 개발
 
-#### 주요 업무 성과
+### 주요 업무
 
 - [functional-flattener](https://github.com/MaxKim-J/functional-flattener) 라이브러리를 제작하고 SI 프로젝트에 적용하여 데이터 처리 로직을 간소화했습니다.
   - 서버가 보내주는 response 객체의 프로퍼티, 키의 casing 등을 method chaining을 통해 쉽게 수정할 수 있는 라이브러리입니다.
@@ -68,38 +70,37 @@
 - 상하이 지사 외국인 개발자, 대기업 직원(클라이언트) 등과의 협업을 경험했습니다.
 - Git Flow, 코드리뷰 규칙 등의 내용을 담은 사내 프론트엔드팀 위키 문서를 작성하고, 팀원들과 공유했습니다.
 
-## 프로젝트
+# 프로젝트
 
-### [1. 판례요지봇](https://github.com/MaxKim-J/supreme-court-API)
+## 1. 판례요지봇
 
-개인 프로젝트 : 대한민국 법원 법령정보 웹사이트의 대법원 공개 판례를 크롤링하여 하루 3번씩 판례요지의 한 단락을 트윗하는 트윗봇을 기획, 디자인, 개발 및 유지보수하고 있습니다.
+> 개인 프로젝트 : 법원 법령정보 웹사이트의 대법원 판례를 크롤링하여 하루 3번씩 판례요지의를 트윗하는 트윗봇과, 판례 요지 본문을 조회할 수 있는 웹앱을 기획•디자인•개발했습니다.
 
-> 프로젝트 기간: 2020.7 ~ 유지보수 중  
-스택: Next.js(+Typescript), Emotion, Express, Firebase Functions, Firebase Firestore, Puppeteer
+- 프로젝트 기간: 2020.7 ~ 유지보수 중  
+- 기술 스택 : Next.js(+Typescript), Emotion, Express, Puppeteer, Firebase Functions, Firebase Firestore
+- [판례요지봇 트위터](https://twitter.com/precedent_bot) / [판례보기 웹앱](https://supreme-court-tweet-bot.vercel.app/) / [프로젝트 레포지토리](https://github.com/MaxKim-J/supreme-court-tweet-bot)
+### 주요 업무
 
-- 서버리스를 이용한 **판례 요지 API**, **크롤러**, **트윗봇** 및 판례 요지 본문을 조회할 수 있는 **웹 클라이언트**를 개발했습니다.
 - 2022년 1월에 기존 Express + postgreSQL로 작성된 EC2 서버를 Firebase Functions 서버리스로 이관하고, CRA 기반으로 작성되었던 클라이언트 웹앱 Next.js로 리라이팅했습니다.
 - SSR을 적용하여 판례 컨텐츠 종류에 따른 동적 메타 태그를(image, title) 설정하여 사용자 경험을 향상시켰습니다.
-- Next.js의 Static Page 생성, ISR 활용하여 사용자 경험 및 페이지 로드 속도를 향상시켰습니다.
+- Next.js의 Static Page 생성과 ISR을 활용하여 사용자 경험 및 페이지 로드 속도를 향상시켰습니다.
 - 대다수의 유저 유입 경로인 모바일에 최적화된 웹 UI를 구현했습니다.
-- [트윗봇 링크](https://twitter.com/precedent_bot), [판례보기 웹앱 링크](https://supreme-court-tweet-bot.vercel.app/) - 트위터 팔로워수 2022년 1월 기준 339명
 
-### [2. 외대 종강시계](https://github.com/MaxKim-J/HUFS-Semester-Clock-Extension)
+## 2. 외대 종강시계
 
-개인 프로젝트 : 한국외대 학생들에게 종강까지 남은 시간 정보와 학사공지, 학교 주변 날씨 정보를 조회하는 편의 기능을 제공하는 Chrome New Tab 확장앱
+> 개인 프로젝트 : 한국외대 학생들에게 종강까지 남은 시간 정보와 학사공지 조회 등의 편의 기능을 제공하는 Chrome New Tab 확장앱을 기획•디자인•개발했습니다.
 
-> 프로젝트 기간: 2019.11 ~ 유지보수 중  
-스택 : React(+Typescript), Emotion, Webpack, Recoil, React Query, Framer-Motion, Puppeteer, Jest, React-Testing-Library
+- 프로젝트 기간: 2019.11 ~ 유지보수 중  
+- 기술 스택 : React(+Typescript), Emotion, Webpack, Recoil, React Query, Framer-Motion, Puppeteer, Jest, React-Testing-Library
+- [크롬 웹스토어 링크](https://chrome.google.com/webstore/detail/%EC%99%B8%EB%8C%80-%EC%A2%85%EA%B0%95%EC%8B%9C%EA%B3%84/jadlpknbgnmmelikpcaogikohieafaem?hl=ko) / [웨일 웹스토어 링크](https://store.whale.naver.com/detail/mckjnmgioalpnggjipjkmadnandhomei) / [프로젝트 레포지토리](https://github.com/MaxKim-J/hufs-semester-clock-v2)
 
-- 2022년 1월 기준 크롬/웨일 웹스토어 기준 550여개의 브라우저에 설치되어 있습니다.
+### 주요 업무
+
 - 2022년 1월에 기존 Vue로 작성되어있던 레거시 프로젝트를 React + Typescript로 리라이팅하여 2.0 버전을 런칭했습니다.
 - [Suspense for Data Fetching](https://maxkim-j.github.io/posts/suspense-argibraic-effect)과 Error Boundary, React Query를 이용한 선언적 비동기 처리를 구현했습니다.
-- 최소한의 유저 인터랙션으로 종강시계 이외의 부가 기능을 쉽게 사용할 수 있는 새로운 디자인을 적용했습니다.
 - 코드 스플리팅을 적용하여 최초 다운로드되는 번들 크기를 줄이고, 애니메이션, 스켈레톤 UI 구현으로 사용자 경험을 향상시켰습니다.
-- Chrome Extension 보일러플레이트를 Webpack으로 처음부터 직접 구현했습니다.
 - 시맨틱 마크업을 준수하여 개발했고, 스크린 리더 디버깅을 병행하면서 웹 접근성을 향상시켰습니다.
-- 코어 로직을 컴포넌트와 분리하고, [빠르게 적용할 수 있는 테스트 전략을 연구](https://maxkim-j.github.io/posts/effective-react-test-strategy)하고 적용하여 60여개의 테스트 코드를 작성했습니다.
-- [구글 웹스토어 링크](https://chrome.google.com/webstore/detail/%EC%99%B8%EB%8C%80-%EC%A2%85%EA%B0%95%EC%8B%9C%EA%B3%84/jadlpknbgnmmelikpcaogikohieafaem?hl=ko),[외대 종강시계 개발 후기(v1기준)](https://maxkim-j.github.io/posts/hufs-semester-clock)
+- 코어 로직을 컴포넌트와 분리하고, [빠르게 적용할 수 있는 테스트 전략을 연구](https://maxkim-j.github.io/posts/effective-react-test-strategy)하고 적용하여 68개의 테스트 케이스를 작성했습니다.
 
 ## 활동
 
