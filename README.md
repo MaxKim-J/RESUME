@@ -77,6 +77,7 @@
 
 - 프로젝트 기간: 2020.7 ~ 유지보수 중  
 - 기술 스택 : Next.js(+Typescript), Emotion, Express, Puppeteer, Firebase Functions, Firebase Firestore
+- 유저 규모 : 트위터 봇 팔로워 352명(2022.01.27 기준)
 - [판례요지봇 트위터](https://twitter.com/precedent_bot) / [판례보기 웹앱](https://supreme-court-tweet-bot.vercel.app/) / [프로젝트 레포지토리](https://github.com/MaxKim-J/supreme-court-tweet-bot)
 #### 주요 업무
 
@@ -91,6 +92,7 @@
 
 - 프로젝트 기간: 2019.11 ~ 유지보수 중  
 - 기술 스택 : React(+Typescript), Emotion, Webpack, Recoil, React Query, Framer-Motion, Puppeteer, Jest, React-Testing-Library
+- 유저 규모 : 크롬 웹스토어 사용자 370명, 웨일 웹스토어 사용자 200명(2022.01.27 기준)
 - [크롬 웹스토어](https://chrome.google.com/webstore/detail/%EC%99%B8%EB%8C%80-%EC%A2%85%EA%B0%95%EC%8B%9C%EA%B3%84/jadlpknbgnmmelikpcaogikohieafaem?hl=ko) / [웨일 스토어](https://store.whale.naver.com/detail/mckjnmgioalpnggjipjkmadnandhomei) / [프로젝트 레포지토리](https://github.com/MaxKim-J/hufs-semester-clock-v2)
 
 #### 주요 업무
