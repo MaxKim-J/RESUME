@@ -128,9 +128,9 @@
 - [Github Actions과 Slack을 연동](https://maxkim-j.github.io/posts/github-actions-slack-bot)하여 매주, 매월 알고리즘 풀이 진척 사항을 개인 슬랙 알림으로 받고 있습니다.
 - 커밋 규칙을 정하고 체계적으로 커밋하려 노력합니다.
 
-### [client-advanced](https://github.com/max-kim-tutorial/client-advanced)
+### [max-kim-tutorial](https://github.com/max-kim-tutorial)
 
-- 웹 클라이언트와 관련해 진행한 공부를 문서로 정리해놓는 레포지토리입니다.
+- 웹 개발과 관련해 진행한 공부, 실험, POC를 정리한 Organization 저장소입니다.
 
 ## 주요 스택
 
