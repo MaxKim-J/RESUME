@@ -101,7 +101,7 @@
 - 최소한의 인터랙션을 통해 부가기능을 쉽게 사용할 수 있는 디자인을 적용하고, 애니메이션, 스켈레톤 UI 구현으로 사용자 경험을 향상시켰습니다.
 - [Suspense for Data Fetching](https://maxkim-j.github.io/posts/suspense-argibraic-effect)과 Error Boundary, React Query를 이용한 선언적 비동기 처리를 구현했습니다.
 - 시맨틱 마크업을 준수하여 개발했고, 스크린 리더 디버깅을 병행하면서 웹 접근성을 향상시켰습니다.
-- 코어 로직을 컴포넌트와 분리하고, [빠르게 적용할 수 있는 테스트 전략을 연구](https://maxkim-j.github.io/posts/effective-react-test-strategy)하고 적용하여 68개의 테스트 케이스를 작성했습니다.
+- 코어 로직을 컴포넌트와 분리하고, [빠르게 적용할 수 있는 테스트 전략을 연구](https://maxkim-j.github.io/posts/effective-react-test-strategy)하고 적용하여 72개의 테스트 케이스를 작성했습니다.
 - Chrome Extension 개발을 위한 Webpack 보일러플레이트를 처음부터 직접 구현했습니다.
 
 ## 활동
