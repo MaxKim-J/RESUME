@@ -2,7 +2,7 @@
 
 ![업뎃](https://img.shields.io/github/last-commit/MaxKim-J/RESUME?color=blue&label=updated&style=flat-square) ![직장유무](https://img.shields.io/badge/currently-unemployed-green) ![구직중 여부](https://img.shields.io/badge/Am%20I%20looking%20for%20a%20job%20now%3F-No-orange)
 
-> 👔 현재 구직중이 아닙니다. 2022.2월 이후부터 구직 시작 예정입니다.  
+> 👔 현재 구직중이 아닙니다. 2022.2월 첫째 주 이후부터 구직 시작 예정입니다.  
 ☕️ 커피챗, 지원 제안은 감사히 받습니다. 메일(hwaseen@gmail.com)로 연락주세요!
 
 ## 프로필
@@ -135,9 +135,9 @@
 ## 주요 스택
 
 - Client: HTML, CSS(SCSS, CSS-in-JS), JavaScript(ES6+), TypeScript, Vue.js(Vue2, Vuex), React.js(Next.js, Redux, Redux Saga, React Query, Recoil), React Native, Webpack, Babel
-- Server: Express.js, TypeORM
-- Test : jest, storybook, react-testing-library
-- Infrastructure : AWS(S3, EC2, CloudFront, Route53), Firebase(Functions, Dynamic Link, Realtime Database, firestore)
+- Server: Express, TypeORM
+- Test : jest, storybook, React-Testing-Library
+- Infrastructure : AWS(S3, EC2, CloudFront, Route53), Firebase(Functions, Realtime Database, firestore)
 - etc: python
 ## 학력
 
