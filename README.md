@@ -48,7 +48,7 @@
   - 모바일 앱 배포 자동화 도구(fastlane, codepush)를 이용해 [React Native 모바일 앱 CI/CD](https://maxkim-j.github.io/posts/react-native-ci-cd)를 구축했습니다.
   - AWS(S3, CloudFront, Route53)를 이용한 React 웹앱 CI/CD를 구축했습니다.
 - Redux Toolkit을 도입하여 Redux, Redux Saga를 이용한 [상태관리, 비동기 요청 로직 리팩토링](https://maxkim-j.github.io/posts/redux-store-structure) 업무를 진행했습니다.
-  - Redux Toolkit Slice, Saga Entity 패턴 도입을 통한 Redux 관련 로직을 간소화했습니다.
+  - Redux Toolkit Slice, Fetch Entity 패턴 도입을 통해 Redux 관련 로직을 간소화했습니다.
   - 각 컴포넌트에 흩어져있던 비동기 요청 상태들을 Redux Store로 일원화하여 코드 응집도를 향상시켰습니다.
 - [OpenAPI Spec 기반 개발 방식](https://projectmaxkim.notion.site/0228-OpenAPI-46c3c26970b2407eb8c4b063bf0bff55)을 도입하여 백엔드와 프론트엔드간 소통 향상에 기여했습니다.
 
