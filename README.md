@@ -81,7 +81,7 @@
 - [판례요지봇 트위터](https://twitter.com/precedent_bot) / [판례보기 웹앱](https://supreme-court-tweet-bot.vercel.app/) / [프로젝트 레포지토리](https://github.com/MaxKim-J/supreme-court-tweet-bot)
 #### 주요 업무
 
-- 2022년 1월에 기존 Express + postgreSQL로 작성된 EC2 서버를 Firebase Functions 서버리스로 이관하고, CRA 기반으로 작성되었던 클라이언트 웹앱 Next.js로 리라이팅했습니다.
+- 2022년 1월에 기존 Express + postgreSQL로 작성된 EC2 서버를 Firebase Functions 서버리스로 이관하고, CRA 기반으로 작성되었던 판례보기 웹앱을 Next.js로 리라이팅했습니다.
 - SSR을 적용하여 판례 컨텐츠 종류에 따른 동적 메타 태그를(image, title) 설정하여 사용자 경험을 향상시켰습니다.
 - Next.js의 Static Page 생성과 ISR을 활용하여 사용자 경험 및 페이지 로드 속도를 향상시켰습니다.
 - 대다수의 유저 유입 경로인 모바일에 최적화된 웹 UI를 구현했습니다.
@@ -101,7 +101,6 @@
 - 최소한의 인터랙션을 통해 부가기능을 쉽게 사용할 수 있는 디자인을 적용하고, 애니메이션, 스켈레톤 UI 구현으로 사용자 경험을 향상시켰습니다.
 - [Suspense for Data Fetching](https://maxkim-j.github.io/posts/suspense-argibraic-effect)과 Error Boundary, React Query를 이용한 선언적 비동기 처리를 구현했습니다.
 - 시맨틱 마크업을 적극 사용하여 개발했고, 스크린 리더 디버깅을 병행하면서 웹 접근성을 향상시켰습니다.
-- 프로젝트에 적합한 테스트 전략을 연구하고 적용하여 72개의 테스트 케이스를 작성했습니다.
 - Chrome Extension 개발을 위한 Webpack 보일러플레이트를 처음부터 직접 구현했습니다.
 
 ## 활동
