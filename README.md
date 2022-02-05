@@ -76,7 +76,7 @@
 > 개인 프로젝트 : 법원 법령정보 웹사이트의 대법원 판례를 크롤링하여 판례요지를 주기적으로 트윗하는 트윗봇과, 판례 요지 본문을 조회할 수 있는 웹앱을 기획•디자인•개발했습니다.
 
 - 프로젝트 기간: 2020.7 ~ 유지보수 중  
-- 기술 스택 : Next.js(+Typescript), Emotion, Express, Puppeteer, Firebase Functions, Firebase Firestore
+- 기술 스택 : Next.js(+Typescript), Emotion, Express, Puppeteer, Firebase
 - 유저 규모 : 트위터 봇 팔로워 352명(2022.01.27 기준)
 - [판례요지봇 트위터](https://twitter.com/precedent_bot) / [판례보기 웹앱](https://supreme-court-tweet-bot.vercel.app/) / [프로젝트 레포지토리](https://github.com/MaxKim-J/supreme-court-tweet-bot)
 #### 주요 업무
@@ -91,17 +91,18 @@
 > 개인 프로젝트 : 한국외대 학생들에게 종강까지 남은 시간 정보와 학사공지 조회 등의 편의 기능을 제공하는 Chrome New Tab 확장앱을 기획•디자인•개발했습니다.
 
 - 프로젝트 기간: 2019.11 ~ 유지보수 중  
-- 기술 스택 : React(+Typescript), Emotion, Webpack, Recoil, React Query, Framer-Motion, Puppeteer, Jest, React-Testing-Library
-- 유저 규모 : 크롬 웹스토어 사용자 370명, 웨일 웹스토어 사용자 200명(2022.01.27 기준)
-- [크롬 웹스토어](https://chrome.google.com/webstore/detail/%EC%99%B8%EB%8C%80-%EC%A2%85%EA%B0%95%EC%8B%9C%EA%B3%84/jadlpknbgnmmelikpcaogikohieafaem?hl=ko) / [웨일 스토어](https://store.whale.naver.com/detail/mckjnmgioalpnggjipjkmadnandhomei) / [프로젝트 레포지토리](https://github.com/MaxKim-J/hufs-semester-clock-v2)
+- 기술 스택 : React(+Typescript), Emotion, Webpack, Recoil, React Query, Framer-Motion, Puppeteer, Jest, React-Testing-Library, Firebase, Express
+- 유저 규모 : 크롬 웹스토어 사용자 300여명, 웨일 웹스토어 사용자 200여명
+- [웹 버전](http://hufs-semester-clock-web.s3-website.ap-northeast-2.amazonaws.com/) / [크롬 웹스토어](https://chrome.google.com/webstore/detail/%EC%99%B8%EB%8C%80-%EC%A2%85%EA%B0%95%EC%8B%9C%EA%B3%84/jadlpknbgnmmelikpcaogikohieafaem?hl=ko) / [웨일 스토어](https://store.whale.naver.com/detail/mckjnmgioalpnggjipjkmadnandhomei) / [프로젝트 레포지토리](https://github.com/MaxKim-J/hufs-semester-clock-v2)
 
 #### 주요 업무
 
-- 2022년 1월에 기존 Vue로 작성되어있던 레거시 프로젝트를 React + Typescript로 리라이팅하여 2.0 버전을 런칭했습니다.
+- 2022년 1월에 기존 Vue + Javascript로 작성되어있던 레거시 프로젝트를 React + Typescript로 리라이팅하여 2.0 버전을 런칭했습니다.
 - 최소한의 인터랙션을 통해 부가기능을 쉽게 사용할 수 있는 디자인을 적용하고, 애니메이션, 스켈레톤 UI 구현으로 사용자 경험을 향상시켰습니다.
 - [Suspense for Data Fetching](https://maxkim-j.github.io/posts/suspense-argibraic-effect)과 Error Boundary, React Query를 이용한 선언적 비동기 처리를 구현했습니다.
 - 시맨틱 마크업을 적극 사용하여 개발했고, 스크린 리더 디버깅을 병행하면서 웹 접근성을 향상시켰습니다.
-- Chrome Extension 개발을 위한 Webpack 보일러플레이트를 처음부터 직접 구현했습니다.
+- 빠르게 테스트를 붙일 수 있는 전략을 고민하고, Jest와 React-Testing-Library로 72개의 테스트 케이스를 작성했습니다.
+- 개발 초기부터 Webpack 설정을 처음부터 시작하여 Chrome Extension 번들과 Web 번들을 모두 만들 수 있는 빌드 환경을 구축했습니다.
 
 ## 활동
 
@@ -118,7 +119,6 @@
 - 스터디의 최초 제안자로서 스터디 규칙 수립과 운영을 함께하고 있습니다.
 - [전체 세션 자료 모음](https://www.notion.so/f10ffc48ee02465593406f349fae1831?v=045095be421b4e17983bfd1abdfdcf70) / [개인 세션 자료 모음](https://projectmaxkim.notion.site/Max-19126f9a722b48bd89f3b11c530a23ac)
 
-
 ## 개인 공부
 
 ### [Algo](https://github.com/MaxKim-J/Algo)
@@ -133,11 +133,11 @@
 
 ## 주요 스택
 
-- Client: HTML, CSS(SCSS, CSS-in-JS), JavaScript(ES6+), TypeScript, Vue.js(Vue2, Vuex), React.js(Next.js, Redux, Redux Saga, React Query, Recoil), React Native, Webpack, Babel
-- Server: Express, TypeORM
-- Test : jest, storybook, React-Testing-Library
-- Infrastructure : AWS(S3, EC2, CloudFront, Route53), Firebase(Functions, Realtime Database, firestore)
-- etc: python
+- **Client**: HTML(A11Y), CSS(SCSS, Emotion, Styled-Components), JavaScript(ES6+), TypeScript, Vue.js(Vue2, Vuex), React.js(Next.js, Redux, Redux Saga, React Query, Recoil), React Native, Webpack, Babel
+- **Server**: Express, TypeORM
+- **Test** : Jest, Storybook, React-Testing-Library
+- **Infrastructure** : AWS(S3, EC2, CloudFront, Route53), Firebase(Functions, Realtime Database, Firestore Database)
+- **etc**: Python
 ## 학력
 
 **한국외국어대학교**
