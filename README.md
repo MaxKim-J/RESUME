@@ -64,8 +64,7 @@
 #### 주요 업무
 
 - [functional-flattener](https://github.com/MaxKim-J/functional-flattener) 라이브러리를 제작하고 SI 프로젝트에 적용하여 데이터 처리 로직을 간소화했습니다.
-  - JS 객체를 메서드 체이닝을 통해 쉽게 수정할 수 있는 라이브러리입니다.
-  - 명령형 프로그래밍으로 작성된 장황한 데이터 가공 로직을 제거했습니다.
+  - JS 객체를 메서드 체이닝을 통해 쉽게 수정할 수 있는 라이브러리이며, 기존 프로젝트에 명령형 프로그래밍으로 작성된 장황한 데이터 가공 로직을 제거했습니다.
 - 상하이 지사 외국인 개발자, 대기업 직원 등 다양한 주체와의 협업을 경험했습니다.
 - 팀 컨벤션, 코드리뷰 규칙 등의 내용을 담은 사내 프론트엔드팀 위키 문서를 작성하고, 팀원들과 공유했습니다.
 
@@ -77,7 +76,7 @@
 
 - 프로젝트 기간: 2020.7 ~ 유지보수 중  
 - 기술 스택 : Next.js(+Typescript), Emotion, Express, Puppeteer, Firebase
-- 유저 규모 : 트위터 봇 팔로워 352명(2022.01.27 기준)
+- 유저 규모 : 트위터 봇 팔로워 358명(2022.02.06 기준)
 - [판례요지봇 트위터](https://twitter.com/precedent_bot) / [판례보기 웹앱](https://supreme-court-tweet-bot.vercel.app/) / [프로젝트 레포지토리](https://github.com/MaxKim-J/supreme-court-tweet-bot)
 #### 주요 업무
 
@@ -92,7 +91,7 @@
 
 - 프로젝트 기간: 2019.11 ~ 유지보수 중  
 - 기술 스택 : React(+Typescript), Emotion, Webpack, Recoil, React Query, Framer-Motion, Puppeteer, Jest, React-Testing-Library, Firebase, Express
-- 유저 규모 : 크롬 웹스토어 사용자 300여명, 웨일 웹스토어 사용자 200여명
+- 유저 규모 : 300여개의 크롬 브라우저, 200여개의 웨일 브라우저에 설치된 상태
 - [웹 버전](http://hufs-semester-clock-web.s3-website.ap-northeast-2.amazonaws.com/) / [크롬 웹스토어](https://chrome.google.com/webstore/detail/%EC%99%B8%EB%8C%80-%EC%A2%85%EA%B0%95%EC%8B%9C%EA%B3%84/jadlpknbgnmmelikpcaogikohieafaem?hl=ko) / [웨일 스토어](https://store.whale.naver.com/detail/mckjnmgioalpnggjipjkmadnandhomei) / [프로젝트 레포지토리](https://github.com/MaxKim-J/hufs-semester-clock-v2)
 
 #### 주요 업무
@@ -143,7 +142,7 @@
 **한국외국어대학교**
 
 - 서울캠퍼스
-- 영어대학 영미문학 ・ 문화학과 
+- 영어대학 영미문학 ・ 문화학과(영문학사)
 - AI 융합전공 AI & Software 트랙 이중전공(공학사)
 - 2022.6 졸업 예정
 
