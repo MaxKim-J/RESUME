@@ -133,7 +133,7 @@
 
 ## 주요 스택
 
-- **Client**: HTML(A11Y), CSS(SCSS, Emotion, Styled-Components), JavaScript(ES6+), TypeScript, Vue.js(Vue2, Vuex), React.js(Next.js, Redux, Redux Saga, React Query, Recoil), React Native, Webpack, Babel
+- **Client**: HTML(A11Y), CSS(SCSS, Emotion, Styled-Components), JavaScript(ES6+), TypeScript, Vue.js(Vue2, Vuex), React.js(Next.js, Redux, Redux Toolkit, Redux Saga, React Query, Recoil), React Native, Webpack, Babel
 - **Server**: Express, TypeORM
 - **Test** : Jest, Storybook, React-Testing-Library
 - **Infrastructure** : AWS(S3, EC2, CloudFront, Route53), Firebase(Functions, Realtime Database, Firestore Database)
