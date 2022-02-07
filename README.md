@@ -74,7 +74,7 @@
   - Next.js의 Static Page 생성과 ISR을 활용하여 사용자 경험 및 페이지 로드 속도를 향상시켰습니다.
   - 대다수의 유저 유입 경로인 모바일에 최적화된 웹 UI를 구현했습니다.
 
-### 2. 외대 종강시계(2019.11 ~ 유지보수 중)
+### 외대 종강시계(2019.11 ~ 유지보수 중)
 
 한국외대 학생들에게 종강까지 남은 시간 정보와 학사공지 조회 등의 편의 기능을 제공하는 Chrome New Tab 확장 앱을 기획•디자인•개발했습니다.
 - [웹 버전](http://hufs-semester-clock-web.s3-website.ap-northeast-2.amazonaws.com/) / [크롬 웹스토어](https://chrome.google.com/webstore/detail/%EC%99%B8%EB%8C%80-%EC%A2%85%EA%B0%95%EC%8B%9C%EA%B3%84/jadlpknbgnmmelikpcaogikohieafaem?hl=ko) / [웨일 스토어](https://store.whale.naver.com/detail/mckjnmgioalpnggjipjkmadnandhomei) / [프로젝트 레포지토리](https://github.com/MaxKim-J/hufs-semester-clock-v2)
