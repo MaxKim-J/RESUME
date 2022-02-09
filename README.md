@@ -98,7 +98,8 @@
 
 - 기술에 대한 단순한 요약이 아닌, 양질의 인사이트를 전달할 수 있는 기술 포스팅을 작성하려 노력합니다.
 - 2022년 2월 7일 기준, 지난 1년 동안 26만건의 검색 노출과 5만 6천건의 페이지뷰가 발생했습니다.
-- Suspense for Data Fetching을 다룬 포스팅이 네이버에서 발행하는 [2021년 12월 fe-news 큐레이션](https://github.com/naver/fe-news/blob/master/issues/2021-12.md#suspense-for-data-fetching%EC%9D%98-%EC%9E%91%EB%8F%99-%EC%9B%90%EB%A6%AC%EC%99%80-%EC%BB%A8%EC%85%89-feat%EB%8C%80%EC%88%98%EC%A0%81-%ED%9A%A8%EA%B3%BC)에 소개되었습니다.
+- "Suspense for Data Fetching의 작동 원리와 컨셉(feat.대수적 효과)" 포스팅이 네이버에서 발행하는 [2021년 12월 fe-news 큐레이션](https://github.com/naver/fe-news/blob/master/issues/2021-12.md#suspense-for-data-fetching%EC%9D%98-%EC%9E%91%EB%8F%99-%EC%9B%90%EB%A6%AC%EC%99%80-%EC%BB%A8%EC%85%89-feat%EB%8C%80%EC%88%98%EC%A0%81-%ED%9A%A8%EA%B3%BC)에 소개되었습니다.
+- "브라우저 주소창에 URL을 치면 일어나는 일들" 포스팅이 [GeekNews](https://twitter.com/GeekNewsBot/status/1491218802474127362)에 소개되었습니다.
 
 ### 세션 스터디 - 주간기술동향(2021.1~)
 
