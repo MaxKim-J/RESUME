@@ -32,14 +32,10 @@
 
 > 신인 패션 디자이너와 브랜드의 성공적인 런칭을 돕는 프리오더 서비스 스타트업
 
-**프론트엔드 개발자** : 웹, 모바일 애플리케이션 개발 (React, Redux, React Native, styled-components)
+**프론트엔드 개발자** : React, Redux, React Native, styled-components
 
-- 모예 모바일 앱 애플리케이션([ios](https://apps.apple.com/kr/app/moye-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%8C%A8%EC%85%98%EC%9D%84-%EA%B0%80%EC%9E%A5-%EB%A8%BC%EC%A0%80/id1561711601)/
-  [android](https://play.google.com/store/apps/details?id=kr.moye.app))
-- [모예 웹 애플리케이션](https://moye.kr/)
-
-#### 주요 업무
-
+- 패션 프리오더 커머스 [웹](https://moye.kr/), 모바일([ios](https://apps.apple.com/kr/app/moye-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%8C%A8%EC%85%98%EC%9D%84-%EA%B0%80%EC%9E%A5-%EB%A8%BC%EC%A0%80/id1561711601)/
+  [android](https://play.google.com/store/apps/details?id=kr.moye.app)) 애플리케이션을 개발, 유지보수했습니다.
 - 기존의 Atomic Design System 기반의 디자인 시스템을 해체하고, 팀의 실정에 맞는 방법으로 컴포넌트 디렉토리 구조를 개선했습니다.
 - 효과적인 디자이너-개발자 간 협업을 위한 업무 방법을 제안했습니다.
 - Github Actions를 사용한 [React Native 모바일 앱 CI/CD](https://maxkim-j.github.io/posts/react-native-ci-cd)와 React 웹앱 CI/CD 파이프라인 구축을 통한 팀 생산성 향상을 도모했습니다.
@@ -50,14 +46,10 @@
 
 > 글로벌 Chat Bot, 웹앱 솔루션 스타트업
 
-**인턴 프론트엔드 개발자** : : 반응형 웹 서비스, 백오피스 SI 개발 업무 수행 (Nuxt.js, Vue.js, Vuex)
+**인턴 프론트엔드 개발자** : Nuxt.js, Vue.js, Vuex, SCSS
 
-- 자체 커머스 [아라 특가](https://ara.travelflan.com) UI 리뉴얼 작업
-- Topas 여행정보 TripCody 웹앱 개발
-- 10000Lab 커피 문자 주문 솔루션 백오피스 개발
-
-#### 주요 업무
-
+- Topas 여행정보 TripCody 웹앱, 10000Lab 커피 문자 주문 솔루션 백오피스 등 웹서비스 SI 개발 업무를 수행했습니다.
+- 회사 자체 커머스 [아라 특가](https://ara.travelflan.com) UI 리뉴얼 작업을 수행했습니다.
 - JS 객체를 메서드 체이닝을 통해 수정할 수 있는 [functional-flattener](https://github.com/MaxKim-J/functional-flattener) 라이브러리를 제작하고 SI 프로젝트에 적용하여 데이터 처리 로직을 간소화했습니다.
 - 상하이 지사 외국인 개발자, 대기업 직원 등 다양한 주체와의 협업을 경험했습니다.
 - 팀 컨벤션, 코드 리뷰 규칙 등의 내용을 담은 사내 프론트엔드팀 위키 문서를 작성하고, 팀원들과 공유했습니다.
@@ -70,11 +62,10 @@
 
 - [판례요지봇 트위터](https://twitter.com/precedent_bot) / [판례 보기 웹앱](https://supreme-court-tweet-bot.vercel.app/) / [프로젝트 레포지토리](https://github.com/MaxKim-J/supreme-court-tweet-bot)
 - 유저 규모 : 트위터 봇 팔로워 359명(2022.02.07 기준)
-- 주요 업무
-  - 2022년 1월에 기존 Express + postgreSQL로 작성된 EC2 서버를 Firebase Functions 서버리스로 이관하고, CRA 기반으로 작성되었던 판례보기 웹앱을 Next.js로 리라이팅했습니다.
-  - Next.js를 사용하여 판례 종류에 따른 동적 메타 태그를(image, title) 설정해 사용자 경험을 향상시켰습니다.
-  - Next.js의 Static Page 생성과 ISR을 활용하여 사용자 경험 및 페이지 로드 속도를 향상시켰습니다.
-  - 대다수의 유저 유입 경로인 모바일에 최적화된 웹 UI를 구현했습니다.
+- 2022년 1월에 기존 Express + postgreSQL로 작성된 EC2 서버를 Firebase Functions 서버리스로 이관하고, CRA 기반으로 작성되었던 판례보기 웹앱을 Next.js로 리라이팅했습니다.
+- Next.js를 사용하여 판례 종류에 따른 동적 메타 태그를(image, title) 설정해 사용자 경험을 향상시켰습니다.
+- Next.js의 Static Page 생성과 ISR을 활용하여 사용자 경험 및 페이지 로드 속도를 향상시켰습니다.
+- 대다수의 유저 유입 경로인 모바일에 최적화된 웹 UI를 구현했습니다.
 
 ### 외대 종강시계(2019.11 ~ 유지보수 중)
 
@@ -82,13 +73,12 @@
 
 - [웹 버전](http://hufs-semester-clock-web.s3-website.ap-northeast-2.amazonaws.com/) / [크롬 웹스토어](https://chrome.google.com/webstore/detail/%EC%99%B8%EB%8C%80-%EC%A2%85%EA%B0%95%EC%8B%9C%EA%B3%84/jadlpknbgnmmelikpcaogikohieafaem?hl=ko) / [웨일 스토어](https://store.whale.naver.com/detail/mckjnmgioalpnggjipjkmadnandhomei) / [프로젝트 레포지토리](https://github.com/MaxKim-J/hufs-semester-clock-v2)
 - 유저 규모 : 300여 개의 크롬 브라우저, 200여 개의 웨일 브라우저에 설치된 상태 (2022.02.07 기준)
-- 주요 업무
-  - 2022년 1월에 기존 Vue + Javascript로 작성되어있던 레거시 프로젝트를 React + Typescript로 리라이팅하여 2.0 버전을 런칭했습니다.
-  - 최소한의 인터랙션을 통해 부가기능을 쉽게 사용할 수 있는 디자인을 적용하고, 애니메이션, 스켈레톤 UI 구현으로 사용자 경험을 향상시켰습니다.
-  - [Suspense for Data Fetching](https://maxkim-j.github.io/posts/suspense-argibraic-effect)과 Error Boundary, React Query를 이용한 선언적 비동기 처리를 구현했습니다.
-  - 시맨틱 마크업을 적극 사용하여 개발했고, [스크린 리더 디버깅을 병행하면서 웹 접근성을 향상](https://maxkim-j.github.io/posts/web-accessiblity-virtuous-cycle)시켰습니다.
-  - 빠르게 테스트를 붙일 수 있는 전략을 고민하고, Jest와 React-Testing-Library로 72개의 테스트 케이스를 작성했습니다.
-  - boilerplate를 사용하지 않고 Webpack 설정을 처음부터 작성하여, Chrome Extension 번들과 Web 번들을 모두 만들 수 있는 빌드 환경을 구축했습니다.
+- 2022년 1월에 기존 Vue + Javascript로 작성되어있던 레거시 프로젝트를 React + Typescript로 리라이팅하여 2.0 버전을 런칭했습니다.
+- 기존 1.x.x 버전에서 수집했던 사용자 피드백을 반영해 최소한의 인터랙션만으로 부가기능에 접근할 수 있는 새로운 디자인을 적용했습니다. 또한 애니메이션, 스켈레톤 UI 구현으로 사용자 경험을 향상시켰습니다.
+- [Suspense for Data Fetching](https://maxkim-j.github.io/posts/suspense-argibraic-effect)과 Error Boundary, React Query를 이용한 선언적 비동기 처리를 구현했습니다.
+- 시맨틱 마크업을 적극 사용하여 개발했고, [스크린 리더 디버깅을 병행하면서 웹 접근성을 향상](https://maxkim-j.github.io/posts/web-accessiblity-virtuous-cycle)시켰습니다.
+- 빠르게 테스트를 붙일 수 있는 전략을 고민하고, Jest와 React-Testing-Library로 87%의 테스트 커버리지를 달성했습니다.
+- boilerplate를 사용하지 않고 Webpack 설정을 처음부터 작성하여, Chrome Extension 번들과 Web 번들을 모두 만들 수 있는 빌드 환경을 구축했습니다.
 
 ## 활동
 
