@@ -33,7 +33,6 @@
 - 패션 프리오더 커머스 [웹](https://moye.kr/), 모바일([ios](https://apps.apple.com/kr/app/moye-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%8C%A8%EC%85%98%EC%9D%84-%EA%B0%80%EC%9E%A5-%EB%A8%BC%EC%A0%80/id1561711601)/
   [android](https://play.google.com/store/apps/details?id=kr.moye.app)) 애플리케이션을 개발, 유지보수했습니다.
 - 기존의 Atomic Design System 기반의 디자인 시스템을 해체하고, 팀의 실정에 맞는 방법으로 컴포넌트 디렉토리 구조를 개선했습니다.
-- 효과적인 디자이너-개발자 간 협업을 위한 업무 방법을 제안했습니다.
 - Github Actions를 사용한 [React Native 모바일 앱 CI/CD](https://maxkim-j.github.io/posts/react-native-ci-cd)와 React 웹앱 CI/CD 파이프라인 구축을 통한 팀 생산성 향상을 도모했습니다.
 - Redux Toolkit을 도입하여 Redux, Redux Saga를 이용한 [상태 관리, 비동기 요청 로직 리팩토링](https://maxkim-j.github.io/posts/redux-store-structure) 업무를 진행했습니다.
 - [OpenAPI Spec 기반 개발 방식](https://projectmaxkim.notion.site/0228-OpenAPI-46c3c26970b2407eb8c4b063bf0bff55)을 도입하여 백엔드와 프론트엔드 간 소통 향상에 기여했습니다.
