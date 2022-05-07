@@ -54,26 +54,26 @@
 법원 법령정보 웹사이트의 대법원 판례를 크롤링하여 판례요지를 주기적으로 트윗하는 트윗봇과, 판례 요지 본문을 조회할 수 있는 웹앱을 기획•디자인•개발했습니다.
 
 - [판례요지봇 트위터](https://twitter.com/precedent_bot) / [판례 보기 웹앱](https://supreme-court-tweet-bot.vercel.app/) / [프로젝트 레포지토리](https://github.com/MaxKim-J/supreme-court-tweet-bot)
-- 트위터 봇 팔로워 359명(2022.02.07 기준)
+- 트위터 봇 팔로워 359명(2022.02.07)
 
 ### 외대 종강시계(2019.11 ~ )
 
 한국외대 학생들에게 종강까지 남은 시간 정보와 학사공지 조회 등의 편의 기능을 제공하는 Chrome New Tab 확장 앱을 기획•디자인•개발했습니다.
 
 - [웹 버전](http://hufs-semester-clock-web.s3-website.ap-northeast-2.amazonaws.com/) / [크롬 웹스토어](https://chrome.google.com/webstore/detail/%EC%99%B8%EB%8C%80-%EC%A2%85%EA%B0%95%EC%8B%9C%EA%B3%84/jadlpknbgnmmelikpcaogikohieafaem?hl=ko) / [웨일 스토어](https://store.whale.naver.com/detail/mckjnmgioalpnggjipjkmadnandhomei) / [프로젝트 레포지토리](https://github.com/MaxKim-J/hufs-semester-clock-v2)
-- 300여 개의 크롬 브라우저, 200여 개의 웨일 브라우저에 설치된 상태 (2022.02.07 기준)
+- 300여 개의 크롬 브라우저, 200여 개의 웨일 브라우저에 설치된 상태 (2022.02.07)
 
 ## Other Experience
 
 ### Communities
 
-- [주간기술동향](https://www.notion.so/d43fd4a132234c028ad3a1500c97c5b1) : 다양한 도메인의 개발자들과 진행하는 주말 세션 스터디(2021.01.31~)
+- [주간기술동향](https://www.notion.so/d43fd4a132234c028ad3a1500c97c5b1): 다양한 도메인의 개발자들과 진행하는 주말 세션 스터디(2021.01.31~)
 
 ### Articles
 
-- Suspense for Data Fetching의 작동 원리와 컨셉(feat.대수적 효과), [2021년 12월 fe-news 큐레이션](https://github.com/naver/fe-news/blob/master/issues/2021-12.md)(2022.01.05)
-- 브라우저 주소창에 URL을 치면 일어나는 일들, [GeekNews](https://twitter.com/GeekNewsBot/status/1491218802474127362)(2022.02.09)
+- Suspense for Data Fetching의 작동 원리와 컨셉(feat.대수적 효과): [naver fe-news](https://github.com/naver/fe-news/blob/master/issues/2021-12.md)(2022.01.05)
+- 브라우저 주소창에 URL을 치면 일어나는 일들: [GeekNews](https://twitter.com/GeekNewsBot/status/1491218802474127362)(2022.02.09)
 
 ### Presentations
 
-- [[2022 피로컨퍼런스]내가 FE를 좋아하는 이유](https://www.youtube.com/watch?v=8vKSx9KXddI&t=300s)(2022.02.28)
+- [[2022 피로컨퍼런스] 내가 FE를 좋아하는 이유](https://www.youtube.com/watch?v=8vKSx9KXddI&t=300s)(2022.02.28)
