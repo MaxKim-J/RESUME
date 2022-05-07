@@ -45,47 +45,34 @@
 **인턴 프론트엔드 개발자** : Nuxt.js, Vue.js, Vuex, SCSS
 
 - Topas 여행정보 TripCody 웹앱, 10000Lab 커피 문자 주문 솔루션 백오피스 등 웹서비스 SI 개발 업무를 수행했습니다.
-- 회사 자체 커머스 [아라 특가](https://ara.travelflan.com) UI 리뉴얼 작업을 수행했습니다.
-- JS 객체를 메서드 체이닝을 통해 수정할 수 있는 [functional-flattener](https://github.com/MaxKim-J/functional-flattener) 라이브러리를 제작하고 SI 프로젝트에 적용하여 데이터 처리 로직을 간소화했습니다.
 - 상하이 지사 외국인 개발자, 대기업 직원 등 다양한 주체와의 협업을 경험했습니다.
 - 팀 컨벤션, 코드 리뷰 규칙 등의 내용을 담은 사내 프론트엔드팀 위키 문서를 작성하고, 팀원들과 공유했습니다.
 
 ## Personal Projects
 
-### 판례요지봇(2020.7 ~ 유지보수 중)
+### 판례요지봇(2020.7 ~ )
 
 법원 법령정보 웹사이트의 대법원 판례를 크롤링하여 판례요지를 주기적으로 트윗하는 트윗봇과, 판례 요지 본문을 조회할 수 있는 웹앱을 기획•디자인•개발했습니다.
 
 - [판례요지봇 트위터](https://twitter.com/precedent_bot) / [판례 보기 웹앱](https://supreme-court-tweet-bot.vercel.app/) / [프로젝트 레포지토리](https://github.com/MaxKim-J/supreme-court-tweet-bot)
-- 유저 규모 : 트위터 봇 팔로워 359명(2022.02.07 기준)
-- 2022년 1월에 기존 Express + postgreSQL로 작성된 EC2 서버를 Firebase Functions 서버리스로 이관하고, CRA 기반으로 작성되었던 판례보기 웹앱을 Next.js로 리라이팅했습니다.
-- Next.js를 사용하여 판례 종류에 따른 동적 메타 태그를(image, title) 설정해 사용자 경험을 향상시켰습니다.
-- Next.js의 Static Page 생성과 ISR을 활용하여 사용자 경험 및 페이지 로드 속도를 향상시켰습니다.
-- 대다수의 유저 유입 경로인 모바일에 최적화된 웹 UI를 구현했습니다.
+- 트위터 봇 팔로워 359명(2022.02.07 기준)
 
-### 외대 종강시계(2019.11 ~ 유지보수 중)
+### 외대 종강시계(2019.11 ~ )
 
 한국외대 학생들에게 종강까지 남은 시간 정보와 학사공지 조회 등의 편의 기능을 제공하는 Chrome New Tab 확장 앱을 기획•디자인•개발했습니다.
 
 - [웹 버전](http://hufs-semester-clock-web.s3-website.ap-northeast-2.amazonaws.com/) / [크롬 웹스토어](https://chrome.google.com/webstore/detail/%EC%99%B8%EB%8C%80-%EC%A2%85%EA%B0%95%EC%8B%9C%EA%B3%84/jadlpknbgnmmelikpcaogikohieafaem?hl=ko) / [웨일 스토어](https://store.whale.naver.com/detail/mckjnmgioalpnggjipjkmadnandhomei) / [프로젝트 레포지토리](https://github.com/MaxKim-J/hufs-semester-clock-v2)
-- 유저 규모 : 300여 개의 크롬 브라우저, 200여 개의 웨일 브라우저에 설치된 상태 (2022.02.07 기준)
-- 2022년 1월에 기존 Vue + Javascript로 작성되어있던 레거시 프로젝트를 React + Typescript로 리라이팅하여 2.0 버전을 런칭했습니다.
-- 기존 1.x.x 버전에서 수집했던 사용자 피드백을 반영해 최소한의 인터랙션만으로 부가기능에 접근할 수 있는 새로운 디자인을 적용했습니다. 또한 애니메이션, 스켈레톤 UI 구현으로 사용자 경험을 향상시켰습니다.
-- [Suspense for Data Fetching](https://maxkim-j.github.io/posts/suspense-argibraic-effect)과 Error Boundary, React Query를 이용한 선언적 비동기 처리를 구현했습니다.
-- 시맨틱 마크업을 적극 사용하여 개발했고, [스크린 리더 디버깅을 병행하면서 웹 접근성을 향상](https://maxkim-j.github.io/posts/web-accessiblity-virtuous-cycle)시켰습니다.
-- 빠르게 테스트를 붙일 수 있는 전략을 고민하고, Jest와 React-Testing-Library로 87%의 테스트 커버리지를 달성했습니다.
-- boilerplate를 사용하지 않고 Webpack 설정을 처음부터 작성하여, Chrome Extension 번들과 Web 번들을 모두 만들 수 있는 빌드 환경을 구축했습니다.
+- 300여 개의 크롬 브라우저, 200여 개의 웨일 브라우저에 설치된 상태 (2022.02.07 기준)
 
 ## Other Experience
 
-### 세션 스터디 - 주간기술동향(2021.1~)
+### Communities
 
-- 매주 일요일 2명의 개발자가 기술 세션을 준비하고 진행합니다.
-- 스터디의 최초 제안자로서 스터디 규칙 수립과 운영을 함께하고 있습니다.
-- [전체 세션 자료 모음](https://www.notion.so/f10ffc48ee02465593406f349fae1831?v=045095be421b4e17983bfd1abdfdcf70) / [개인 세션 자료 모음](https://projectmaxkim.notion.site/Max-19126f9a722b48bd89f3b11c530a23ac)
+- [주간기술동향 - Weekly Tech Review](https://www.notion.so/d43fd4a132234c028ad3a1500c97c5b1) : 다양한 도메인의 개발자들과 진행하는 주말 세션 스터디(2021.1~)
 
-### [기술 블로그](https://maxkim-j.github.io/) 운영 (2020.3~)
+### Articles
 
-- 2022년 2월 7일 기준, 지난 1년 동안 26만건의 검색 노출과 5만 6천건의 페이지뷰가 발생했습니다.
-- "Suspense for Data Fetching의 작동 원리와 컨셉(feat.대수적 효과)" 포스팅이 네이버에서 발행하는 [2021년 12월 fe-news 큐레이션](https://github.com/naver/fe-news/blob/master/issues/2021-12.md#suspense-for-data-fetching%EC%9D%98-%EC%9E%91%EB%8F%99-%EC%9B%90%EB%A6%AC%EC%99%80-%EC%BB%A8%EC%85%89-feat%EB%8C%80%EC%88%98%EC%A0%81-%ED%9A%A8%EA%B3%BC)에 소개되었습니다.
-- "브라우저 주소창에 URL을 치면 일어나는 일들" 포스팅이 [GeekNews](https://twitter.com/GeekNewsBot/status/1491218802474127362)에 소개되었습니다.
+- Suspense for Data Fetching의 작동 원리와 컨셉(feat.대수적 효과), [2021년 12월 fe-news 큐레이션](https://github.com/naver/fe-news/blob/master/issues/2021-12)
+- 브라우저 주소창에 URL을 치면 일어나는 일들, [GeekNews](https://twitter.com/GeekNewsBot/status/1491218802474127362)
+
+### Presentations
