@@ -68,11 +68,13 @@
 
 ### Communities
 
-- [주간기술동향 - Weekly Tech Review](https://www.notion.so/d43fd4a132234c028ad3a1500c97c5b1) : 다양한 도메인의 개발자들과 진행하는 주말 세션 스터디(2021.1~)
+- [주간기술동향](https://www.notion.so/d43fd4a132234c028ad3a1500c97c5b1) : 다양한 도메인의 개발자들과 진행하는 주말 세션 스터디(2021.01.31~)
 
 ### Articles
 
-- Suspense for Data Fetching의 작동 원리와 컨셉(feat.대수적 효과), [2021년 12월 fe-news 큐레이션](https://github.com/naver/fe-news/blob/master/issues/2021-12)
-- 브라우저 주소창에 URL을 치면 일어나는 일들, [GeekNews](https://twitter.com/GeekNewsBot/status/1491218802474127362)
+- Suspense for Data Fetching의 작동 원리와 컨셉(feat.대수적 효과), [2021년 12월 fe-news 큐레이션](https://github.com/naver/fe-news/blob/master/issues/2021-12.md)(2022.01.05)
+- 브라우저 주소창에 URL을 치면 일어나는 일들, [GeekNews](https://twitter.com/GeekNewsBot/status/1491218802474127362)(2022.02.09)
 
 ### Presentations
+
+- [[2022 피로컨퍼런스]내가 FE를 좋아하는 이유](https://www.youtube.com/watch?v=8vKSx9KXddI&t=300s)(2022.02.28)
