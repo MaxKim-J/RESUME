@@ -1,12 +1,8 @@
-# 이력서
+# RESUME
 
 ![업뎃](https://img.shields.io/github/last-commit/MaxKim-J/RESUME?color=blue&label=updated&style=flat-square) ![직장유무](https://img.shields.io/badge/currently-employed-green) ![구직중 여부](https://img.shields.io/badge/Am%20I%20looking%20for%20a%20job%20now%3F-No-orange)
 
 > 👔 2022년 4월부터 재직합니다. 현재 구직중이 아닙니다.
-
-## 프로필
-
-안녕하세요! **최적의 문제 해결**, **유저 경험**, **기술 공유**에 관심이 많은 프론트엔드 개발자 김종혁입니다.
 
 <img src="https://maxkim-j.github.io/assets/img/52434807.jpeg" width="300">
 
@@ -16,7 +12,11 @@
 > [깃헙 프로필](https://github.com/MaxKim-J)  
 > [맥스킴 기술 블로그](https://maxkim-j.github.io/)
 
-## 경력
+## Introduce
+
+안녕하세요! **최적의 문제 해결**, **유저 경험**, **기술 공유**에 관심이 많은 프론트엔드 개발자 김종혁입니다.
+
+## Work Experiences
 
 ### [flex(2022.04 ~ 현재)](https://flex.team/)
 
@@ -50,7 +50,7 @@
 - 상하이 지사 외국인 개발자, 대기업 직원 등 다양한 주체와의 협업을 경험했습니다.
 - 팀 컨벤션, 코드 리뷰 규칙 등의 내용을 담은 사내 프론트엔드팀 위키 문서를 작성하고, 팀원들과 공유했습니다.
 
-## 개인 프로젝트
+## Personal Projects
 
 ### 판례요지봇(2020.7 ~ 유지보수 중)
 
@@ -76,7 +76,7 @@
 - 빠르게 테스트를 붙일 수 있는 전략을 고민하고, Jest와 React-Testing-Library로 87%의 테스트 커버리지를 달성했습니다.
 - boilerplate를 사용하지 않고 Webpack 설정을 처음부터 작성하여, Chrome Extension 번들과 Web 번들을 모두 만들 수 있는 빌드 환경을 구축했습니다.
 
-## 활동
+## Other Experience
 
 ### 세션 스터디 - 주간기술동향(2021.1~)
 
@@ -89,13 +89,3 @@
 - 2022년 2월 7일 기준, 지난 1년 동안 26만건의 검색 노출과 5만 6천건의 페이지뷰가 발생했습니다.
 - "Suspense for Data Fetching의 작동 원리와 컨셉(feat.대수적 효과)" 포스팅이 네이버에서 발행하는 [2021년 12월 fe-news 큐레이션](https://github.com/naver/fe-news/blob/master/issues/2021-12.md#suspense-for-data-fetching%EC%9D%98-%EC%9E%91%EB%8F%99-%EC%9B%90%EB%A6%AC%EC%99%80-%EC%BB%A8%EC%85%89-feat%EB%8C%80%EC%88%98%EC%A0%81-%ED%9A%A8%EA%B3%BC)에 소개되었습니다.
 - "브라우저 주소창에 URL을 치면 일어나는 일들" 포스팅이 [GeekNews](https://twitter.com/GeekNewsBot/status/1491218802474127362)에 소개되었습니다.
-
-## 개인 공부
-
-### [Algo](https://github.com/MaxKim-J/Algo)
-
-- 알고리즘 이론을 정리하고 Python, JavaScript로 알고리즘 풀이를 연습하는 레포지토리입니다.
-
-### [max-kim-tutorial](https://github.com/max-kim-tutorial)
-
-- 웹 개발과 관련해 진행한 공부, 실험, POC를 정리하는 저장소입니다.
