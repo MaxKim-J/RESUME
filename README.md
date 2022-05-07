@@ -80,30 +80,21 @@
 
 ### 세션 스터디 - 주간기술동향(2021.1~)
 
-- 저 포함 8명의 개발자들이 매주 일요일 오전 10시에 원격으로 기술 세션 스터디를 진행하고 있습니다.
-- 매주 2명의 개발자가 45분간의 기술 세션을 준비하고 진행하며, 기술과 경험을 다른 개발자들과 공유합니다.
+- 매주 일요일 2명의 개발자가 기술 세션을 준비하고 진행합니다.
 - 스터디의 최초 제안자로서 스터디 규칙 수립과 운영을 함께하고 있습니다.
 - [전체 세션 자료 모음](https://www.notion.so/f10ffc48ee02465593406f349fae1831?v=045095be421b4e17983bfd1abdfdcf70) / [개인 세션 자료 모음](https://projectmaxkim.notion.site/Max-19126f9a722b48bd89f3b11c530a23ac)
 
 ### [기술 블로그](https://maxkim-j.github.io/) 운영 (2020.3~)
 
-- 기술에 대한 단순한 요약이 아닌, 양질의 인사이트를 전달할 수 있는 기술 포스팅을 작성하려 노력합니다.
 - 2022년 2월 7일 기준, 지난 1년 동안 26만건의 검색 노출과 5만 6천건의 페이지뷰가 발생했습니다.
 - "Suspense for Data Fetching의 작동 원리와 컨셉(feat.대수적 효과)" 포스팅이 네이버에서 발행하는 [2021년 12월 fe-news 큐레이션](https://github.com/naver/fe-news/blob/master/issues/2021-12.md#suspense-for-data-fetching%EC%9D%98-%EC%9E%91%EB%8F%99-%EC%9B%90%EB%A6%AC%EC%99%80-%EC%BB%A8%EC%85%89-feat%EB%8C%80%EC%88%98%EC%A0%81-%ED%9A%A8%EA%B3%BC)에 소개되었습니다.
 - "브라우저 주소창에 URL을 치면 일어나는 일들" 포스팅이 [GeekNews](https://twitter.com/GeekNewsBot/status/1491218802474127362)에 소개되었습니다.
-
-### 웹 개발 동아리 - [피로그래밍](https://pirogramming.com/)(2019.6~2020.2)
-
-- 11기 회원으로 활동하며 Python, Django 스터디에 참여했습니다.
-- Django를 이용하여 오프라인 스터디를 관리하는 웹 서비스 프로젝트를 수행했습니다.
-- 2020년 1월부터는 12기 운영진으로 참여하며, 12기 회원들을 대상으로 다수의 세션을 진행했습니다.
 
 ## 개인 공부
 
 ### [Algo](https://github.com/MaxKim-J/Algo)
 
 - 알고리즘 이론을 정리하고 Python, JavaScript로 알고리즘 풀이를 연습하는 레포지토리입니다.
-- 커밋 규칙을 정하고 체계적으로 커밋하려 노력합니다.
 
 ### [max-kim-tutorial](https://github.com/max-kim-tutorial)
 
