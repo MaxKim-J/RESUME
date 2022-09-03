@@ -51,7 +51,7 @@ UX, DX, 웹 생태계, 어려운 문제를 푸는 소프트웨어, 기술 공유
 
 ### Presentation
 
-- [[2022 피로컨퍼런스] 내가 FE를 좋아하는 이유](https://www.youtube.com/watch?v=8vKSx9KXddI&t=300s)(2022.02.28)
+- [[2022 피로컨퍼런스] 내가 FE를 좋아하는 이유](https://www.youtube.com/watch?v=8vKSx9KXddI)(2022.02.28)
 
 ### Study Group
 
