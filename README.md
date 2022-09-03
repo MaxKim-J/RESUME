@@ -7,11 +7,11 @@
 <img src="https://maxkim-j.github.io/assets/img/52434807.jpeg" width="300">
 
 그때그때 필요한 개발을 하는 소프트웨어 엔지니어 김종혁입니다.  
-UX, DX, 웹 생태계, 어려운 문제를 푸는 소프트웨어, 기술 공유에 관심이 많습니다.
+UX, DX, 웹 생태계, 어려운 문제를 푸는 소프트웨어, 기술 공유, 문서화에 관심이 많습니다.
 
 - hwaseen@gmail.com
-- [깃헙 프로필](https://github.com/MaxKim-J)
-- [맥스킴 기술 블로그](https://maxkim-j.github.io/)
+- [github](https://github.com/MaxKim-J)
+- [tech blog](https://maxkim-j.github.io/)
 
 ## Work Experience
 
@@ -46,8 +46,8 @@ UX, DX, 웹 생태계, 어려운 문제를 푸는 소프트웨어, 기술 공유
 
 ### Article
 
-- Suspense for Data Fetching의 작동 원리와 컨셉(feat.대수적 효과): [naver fe-news](https://github.com/naver/fe-news/blob/master/issues/2021-12.md)(2022.01.05)
 - 브라우저 주소창에 URL을 치면 일어나는 일들: [GeekNews](https://twitter.com/GeekNewsBot/status/1491218802474127362)(2022.02.09)
+- Suspense for Data Fetching의 작동 원리와 컨셉(feat.대수적 효과): [naver fe-news](https://github.com/naver/fe-news/blob/master/issues/2021-12.md)(2022.01.05)
 
 ### Presentation
 
