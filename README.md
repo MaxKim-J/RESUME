@@ -1,4 +1,4 @@
-# RESUME
+# 이력서
 
 ![업뎃](https://img.shields.io/github/last-commit/MaxKim-J/RESUME?color=blue&label=updated&style=flat-square) ![직장유무](https://img.shields.io/badge/currently-employed-green) ![구직중 여부](https://img.shields.io/badge/Am%20I%20looking%20for%20a%20job%20now%3F-No-orange)
 
