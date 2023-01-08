@@ -3,14 +3,12 @@
 > 👔 2022년 4월부터 재직 중입니다. 현재 구직중이 아닙니다.
 
 저는 소프트웨어 엔지니어 김종혁입니다.  
-주로 웹 클라이언트 제품을 개발해왔습니다. 최선의 엔지니어링을 위해 무엇이든 학습하고 적용합니다.
+주로 웹 클라이언트 제품을 만들어 왔습니다. 최선의 엔지니어링을 위해 무엇이든 학습하고 적용합니다.
 
-| channels |                             |
-| -------- | --------------------------- |
-| phone    |                             |
-| email    | hwaseen@gmail.com           |
-| blog     | https://github.com/MaxKim-J |
-| github   | https://maxkim-j.github.io/ |
+- phone: 010-
+- email: hwaseen@gmail.com
+- blog: https://github.com/MaxKim-J
+- github: https://maxkim-j.github.io/
 
 ## Interest
 
@@ -57,33 +55,33 @@
 - Topas 여행정보 TripCody 웹앱, 10000Lab 커피 문자 주문 솔루션 백오피스 등 웹서비스 SI 개발 업무를 수행했습니다.
 - 팀 컨벤션, 코드 리뷰 규칙 등의 내용을 담은 프론트엔드팀 위키 문서를 작성했습니다.
 
-## Personal Projects
-
-### 판례요지봇(2020.7 ~ )
-
-법원 법령정보 웹사이트의 대법원 판례를 크롤링하여 판례요지를 주기적으로 트윗하는 트윗봇과, 판례 요지 본문을 조회할 수 있는 웹앱을 기획•디자인•개발했습니다.
-
-- [판례요지봇 트위터](https://twitter.com/precedent_bot) / [판례 보기 웹앱](https://supreme-court-tweet-bot.vercel.app/) / [프로젝트 레포지토리](https://github.com/MaxKim-J/supreme-court-tweet-bot)
-- 트위터 봇 팔로워 359명(2022.02.07)
-
-### 외대 종강시계(2019.11 ~ )
-
-한국외대 학생들에게 종강까지 남은 시간 정보와 학사공지 조회 등의 편의 기능을 제공하는 Chrome New Tab 확장 앱을 기획•디자인•개발했습니다.
-
-- [웹 버전](http://hufs-semester-clock-web.s3-website.ap-northeast-2.amazonaws.com/) / [크롬 웹스토어](https://chrome.google.com/webstore/detail/%EC%99%B8%EB%8C%80-%EC%A2%85%EA%B0%95%EC%8B%9C%EA%B3%84/jadlpknbgnmmelikpcaogikohieafaem?hl=ko) / [웨일 스토어](https://store.whale.naver.com/detail/mckjnmgioalpnggjipjkmadnandhomei) / [프로젝트 레포지토리](https://github.com/MaxKim-J/hufs-semester-clock-v2)
-- 300여 개의 크롬 브라우저, 200여 개의 웨일 브라우저에 설치된 상태 (2022.02.07)
-
-## Communities
+## Community
 
 ### Known Articles
 
 - 브라우저 주소창에 URL을 치면 일어나는 일들: [GeekNews](https://twitter.com/GeekNewsBot/status/1491218802474127362)(2022.02.09)
 - Suspense for Data Fetching의 작동 원리와 컨셉(feat.대수적 효과): [naver fe-news](https://github.com/naver/fe-news/blob/master/issues/2021-12.md)(2022.01.05)
 
-### Presentation
+### Presentations
 
 - [[2022 피로컨퍼런스] 내가 FE를 좋아하는 이유](https://www.youtube.com/watch?v=8vKSx9KXddI)(2022.02.28)
 
 ### Study Group
 
 - [주간기술동향](https://www.notion.so/d43fd4a132234c028ad3a1500c97c5b1): 다양한 도메인의 개발자들과 진행하는 주말 세션 스터디(2021.01.31~)
+
+## Personal Projects
+
+### 판례요지봇(2020.7 ~ )
+
+법원 법령정보 웹사이트의 대법원 판례를 크롤링하여 판례요지를 주기적으로 트윗하는 트윗봇 서버와, 판례 요지 본문을 조회할 수 있는 웹앱을 기획/디자인/개발했습니다.
+
+- [판례요지봇 트위터](https://twitter.com/precedent_bot) / [판례 보기 웹앱](https://supreme-court-tweet-bot.vercel.app/) / [프로젝트 레포지토리](https://github.com/MaxKim-J/supreme-court-tweet-bot)
+- 트위터 봇 팔로워 444명(2023.01.05)
+
+### 외대 종강시계(2019.11 ~ )
+
+한국외대 학생들에게 종강까지 남은 시간 정보와 학사공지 조회 등의 편의 기능을 제공하는 Chrome New Tab 확장 앱을 기획•디자인•개발했습니다.
+
+- [웹 버전](http://hufs-semester-clock-web.s3-website.ap-northeast-2.amazonaws.com/) / [크롬 웹스토어](https://chrome.google.com/webstore/detail/%EC%99%B8%EB%8C%80-%EC%A2%85%EA%B0%95%EC%8B%9C%EA%B3%84/jadlpknbgnmmelikpcaogikohieafaem?hl=ko) / [웨일 스토어](https://store.whale.naver.com/detail/mckjnmgioalpnggjipjkmadnandhomei) / [프로젝트 레포지토리](https://github.com/MaxKim-J/hufs-semester-clock-v2)
+- 400여 개의 크롬 브라우저, 200여 개의 웨일 브라우저에 설치된 상태 (2023.01.05)
