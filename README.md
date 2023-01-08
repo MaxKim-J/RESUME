@@ -31,7 +31,7 @@
 
 > 사람과 조직에 관한 문제를 해결하는 Human Relations Platform
 
-**웹 프론트엔드 엔지니어** : React, Next
+**웹 프론트엔드 엔지니어** : React, Next, Stitches, Docker
 
 ### [모예(2021.01 ~ 2021.08)](http://bobbinjournal.com/archives/20514)
 
