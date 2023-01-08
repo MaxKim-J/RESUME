@@ -1,15 +1,16 @@
 # 이력서
 
-![업뎃](https://img.shields.io/github/last-commit/MaxKim-J/RESUME?color=blue&label=updated&style=flat-square) ![직장유무](https://img.shields.io/badge/currently-employed-green) ![구직중 여부](https://img.shields.io/badge/Am%20I%20looking%20for%20a%20job%20now%3F-No-orange)
-
-> 👔 2022년 4월부터 재직합니다. 현재 구직중이 아닙니다.
+> 👔 2022년 4월부터 재직 중입니다. 현재 구직중이 아닙니다.
 
 저는 소프트웨어 엔지니어 김종혁입니다.  
-주로 웹 클라이언트 제품을 개발해왔지만, 최선의 엔지니어링을 위해 무엇이든 학습하고 적용합니다.
+주로 웹 클라이언트 제품을 개발해왔습니다. 최선의 엔지니어링을 위해 무엇이든 학습하고 적용합니다.
 
-- hwaseen@gmail.com
-- [github](https://github.com/MaxKim-J)
-- [tech blog](https://maxkim-j.github.io/)
+| channels |                             |
+| -------- | --------------------------- |
+| phone    |                             |
+| email    | hwaseen@gmail.com           |
+| blog     | https://github.com/MaxKim-J |
+| github   | https://maxkim-j.github.io/ |
 
 ## Interest
 
