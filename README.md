@@ -65,6 +65,10 @@
 
 - [[2022 피로컨퍼런스] 내가 FE를 좋아하는 이유](https://www.youtube.com/watch?v=8vKSx9KXddI)(2022.02.28)
 
+### Contributions
+
+- [facebookexperimental/Recoil#1584](https://github.com/facebookexperimental/Recoil/pull/1584): 공식 문서 한국어 번역 기여
+
 ### Study Group
 
 - [주간기술동향](https://www.notion.so/d43fd4a132234c028ad3a1500c97c5b1): 다양한 도메인의 개발자들과 진행하는 주말 세션 스터디(2021.01.31~)
