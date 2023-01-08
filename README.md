@@ -6,8 +6,8 @@
 
 - phone: 010-
 - email: hwaseen@gmail.com
-- blog: https://github.com/MaxKim-J
-- github: https://maxkim-j.github.io/
+- blog: https://maxkim-j.github.io
+- github: https://github.com/MaxKim-J
 
 ## Interest
 
