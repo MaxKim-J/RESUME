@@ -14,7 +14,7 @@
 
 > 사람과 조직에 관한 문제를 해결하는 Human Relations Platform
 
-**웹 프론트엔드 엔지니어** : FE Platform Team / flex 웹 제품 개발 생산성 향상 및 코드베이스 개선
+**웹 프론트엔드 엔지니어** : FE Platform Team 소속, flex 웹 제품 개발 생산성 향상 및 코드베이스 개선
 
 ### [모예(2021.01 ~ 2021.08)](http://bobbinjournal.com/archives/20514)
 
