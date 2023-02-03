@@ -16,7 +16,7 @@
 
 **웹 프론트엔드 엔지니어** : FE Platform Team 소속, flex 웹 제품 개발 생산성 향상 및 코드베이스 개선
 
-### [모예(2021.01 ~ 2021.08)](http://bobbinjournal.com/archives/20514)
+### [모예(2021.01 ~ 2021.08)](https://thevc.kr/moye)
 
 > 신인 패션 디자이너와 브랜드의 성공적인 런칭을 돕는 프리오더 서비스 (\*2022년 폐업)
 
@@ -28,7 +28,7 @@
 - Redux Saga 코드의 복잡함을 완화하고 비동기 요청 로직을 추가하는데 드는 시간을 단축하기 위해, 서버 비동기 요청에 대한 상태값, saga 함수 등을 모두 포함하게 되어 비대해진 Redux Store에 [Redux Toolkit을 도입](https://maxkim-j.github.io/posts/redux-store-structure)했습니다.
 - 백엔드 개발이 끝난 후 프론트엔드 개발이 시작되는 폭포수 개발 사이클을 개선하기 위해, [OpenAPI Spec 기반 개발 방식](https://projectmaxkim.notion.site/0228-OpenAPI-46c3c26970b2407eb8c4b063bf0bff55)을 도입하고 open api 스펙을 별도의 git 레포지토리로 관리했습니다.
 
-### [FREED GROUP(2020.07 ~ 2021.01)](https://www.freed.group/)
+### [FREED GROUP(2020.07 ~ 2021.01)](https://www.freedgrouptech.com/)
 
 > 글로벌 Chat Bot, 웹앱 솔루션
 
