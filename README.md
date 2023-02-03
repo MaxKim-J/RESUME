@@ -69,7 +69,7 @@
 
 한국외대 학생들에게 종강까지 남은 시간 정보와 학사공지 조회 등의 편의 기능을 제공하는 크롬 익스텐션 개발 ([웹 버전](http://hufs-semester-clock-web.s3-website.ap-northeast-2.amazonaws.com/) / [크롬 웹스토어](https://chrome.google.com/webstore/detail/%EC%99%B8%EB%8C%80-%EC%A2%85%EA%B0%95%EC%8B%9C%EA%B3%84/jadlpknbgnmmelikpcaogikohieafaem?hl=ko) / [웨일 스토어](https://store.whale.naver.com/detail/mckjnmgioalpnggjipjkmadnandhomei) / [프로젝트 레포지토리](https://github.com/MaxKim-J/hufs-semester-clock-v2))
 
-- webpack을 이용해 크롬 익스텐션 보일러 플레이트를 직접 구현하고, 웹과 크롬 익스텐션 각 다른 환경의 배포할 수 있는 2개의 번들을 빌드할 수 있는 webpack config를 작성했습니다.
+- 웹과 크롬 익스텐션이라는 각 다른 환경에 배포할 수 있는 2개의 빌드 결과물을 생산하기 위해, webpack을 이용해 크롬 익스텐션 + 웹앱 보일러 플레이트를 직접 구현했습니다.
 - [스크린 리더를 개발 과정에서 적극적으로 사용](https://maxkim-j.github.io/posts/web-accessiblity-virtuous-cycle)하며, 웹 표준과 웹 접근성을 준수한 마크업을 작성했습니다. (LightHouse 기준 접근성 100점)
 - 크롬, 웨일 브라우저 포함 600여개 브라우저에 설치(2023.01.05)
 
