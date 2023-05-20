@@ -51,7 +51,7 @@
 ### Contributions
 
 - [facebookexperimental/Recoil#1584](https://github.com/facebookexperimental/Recoil/pull/1584): 공식 문서 한국어 번역 기여
-- [reactjs/ko.react.dev](https://github.com/reactjs/ko.react.dev): React New Docs 공식 한국어 문서 번역 메인테이너/리뷰어
+- [reactjs/ko.react.dev](https://github.com/reactjs/ko.react.dev): React New Docs 공식 한국어 문서 번역 메인테이너, 코드 리뷰 및 번역 가이드라인 기여
 
 ### Study Group
 
