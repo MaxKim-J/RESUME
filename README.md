@@ -24,7 +24,7 @@
 
 - 유연하고 작은 디자인 시스템이 필요했던 팀의 실정에 맞게, 제품팀 설득을 통해 확고한 분류 기준을 가진 Atomic Design System 기반의 디자인 시스템을 해체하고 UI 컴포넌트 디렉토리 구조를 개선했습니다.
 - 모바일 앱을 로컬에서 빌드/배포하는 비효율적인 방식을 개선하기 위해, Github Actions, fastlane, codepush를 사용해 [React Native 모바일 앱 배포 파이프라인](https://maxkim-j.github.io/posts/react-native-ci-cd)을 구축했습니다.
-- 웹 제품과 모바일 앱 제품의 같은 동작을 보장하기 위해, Redux와 Redux Saga를 이용해 store에 서버 비동기 요청 로직을 일원화하여 React 웹앱과 React Native 모바일 앱이 같은 Redux Store 코드를 공유하게 했습니다.
+- 웹 제품과 모바일 앱 제품의 같은 동작을 보장하면서 도전적인 일정 안에 모바일 앱을 빠르게 구현할 수 있도록, Redux와 Redux Saga를 이용해 store에 서버 비동기 요청 로직을 일원화하여 React 웹앱과 React Native 모바일 앱이 같은 Redux Store 코드를 공유하게 했습니다.
 - Redux Saga 코드의 복잡함을 완화하고 비동기 요청 로직을 추가하는데 드는 시간을 단축하기 위해, 서버 비동기 요청에 대한 상태값, saga 함수 등을 모두 포함하게 되어 비대해진 Redux Store에 [Redux Toolkit을 도입](https://maxkim-j.github.io/posts/redux-store-structure)했습니다.
 - 백엔드 개발이 끝난 후 프론트엔드 개발이 시작되는 폭포수 개발 사이클을 개선하기 위해, [OpenAPI Spec 기반 개발 방식](https://projectmaxkim.notion.site/0228-OpenAPI-46c3c26970b2407eb8c4b063bf0bff55)을 도입하고 open api 스펙을 별도의 git 레포지토리로 관리했습니다.
 
