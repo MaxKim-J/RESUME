@@ -50,27 +50,10 @@
 
 ### Contributions
 
-- [reactjs/ko.react.dev](https://github.com/reactjs/ko.react.dev): React New Docs 공식 한국어 문서 번역 메인테이너, 코드 리뷰 및 번역 가이드라인 기여(2023.03~)
+- [reactjs/ko.react.dev](https://github.com/reactjs/ko.react.dev): React New Docs 공식 한국어 문서 번역 메인테이너, 코드 리뷰 및 번역 가이드라인 기여(2023.03 ~)
 - [facebookexperimental/Recoil#1584](https://github.com/facebookexperimental/Recoil/pull/1584): 공식 문서 한국어 번역 기여(2022.02.01)
 
-### Study Group
+## etc
 
-- [주간기술동향](https://www.notion.so/d43fd4a132234c028ad3a1500c97c5b1): 다양한 도메인의 개발자들과 진행하는 주말 세션 스터디(2021.01.31~)
-
-## Personal Projects
-
-### 판례요지봇(2020.7 ~ )
-
-법원 법령정보 웹사이트의 대법원 판례를 크롤링하여 판례요지를 주기적으로 트윗하는 트윗봇 서버, 판례 요지 본문을 조회할 수 있는 웹앱 개발 ([판례요지봇 트위터](https://twitter.com/precedent_bot) / [판례 보기 웹앱](https://supreme-court-tweet-bot.vercel.app/) / [프로젝트 레포지토리](https://github.com/MaxKim-J/supreme-court-tweet-bot))
-
-- 첫번째 버전에서 달에 3만원 정도였던 EC2 + PSQL + Express 서버 과금을 줄이기 위해, firebase의 서버리스 함수와 데이터베이스를 사용해 서버 코드를 재작성했고 과금을 1000원대 수준으로 낮췄습니다.
-- 판례 조회 웹앱의 최대한 빠른 페이지 로딩 성능을 유지하면서 서버에서 주기적으로 크롤링되는 최신 판례 정보를 업데이트하기 위해, Nextjs의 Incremental Static Regeneration을 이용해 최신 판례 정보를 크롤링 주기에 맞춰 정적 페이지로 생성해놓도록 했습니다.
-- 트위터 봇 팔로워 450여명(2023.01.05)
-
-### 외대 종강시계(2019.11 ~ )
-
-한국외대 학생들에게 종강까지 남은 시간 정보와 학사공지 조회 등의 편의 기능을 제공하는 크롬 익스텐션 개발 ([웹 버전](http://hufs-semester-clock-web.s3-website.ap-northeast-2.amazonaws.com/) / [크롬 웹스토어](https://chrome.google.com/webstore/detail/%EC%99%B8%EB%8C%80-%EC%A2%85%EA%B0%95%EC%8B%9C%EA%B3%84/jadlpknbgnmmelikpcaogikohieafaem?hl=ko) / [웨일 스토어](https://store.whale.naver.com/detail/mckjnmgioalpnggjipjkmadnandhomei) / [프로젝트 레포지토리](https://github.com/MaxKim-J/hufs-semester-clock-v2))
-
-- 웹과 크롬 익스텐션이라는 각 다른 환경에 배포할 수 있는 2개의 빌드 결과물을 생산하기 위해, webpack을 이용해 크롬 익스텐션 + 웹앱 보일러 플레이트를 직접 구현했습니다.
-- [스크린 리더를 개발 과정에서 적극적으로 사용](https://maxkim-j.github.io/posts/web-accessiblity-virtuous-cycle)하며, 웹 표준과 웹 접근성을 준수한 마크업을 작성했습니다. (LightHouse 기준 접근성 100점)
-- 크롬, 웨일 브라우저 포함 600여개 브라우저에 설치(2023.01.05)
+- 실사용자 600명 이상의 [크롬 익스텐션 프로젝트](https://github.com/MaxKim-J/hufs-semester-clock-v2)를 개발하고 3년간 운영했습니다. 개발 과정에서 [스크린 리더를 개발 과정에서 적극적으로 사용](https://maxkim-j.github.io/posts/web-accessiblity-virtuous-cycle)하며, 웹 표준과 웹 접근성을 준수한 마크업을 작성했습니다. (LightHouse 기준 접근성 100점)
+- 다양한 도메인의 개발자들과 함께 2년간(2021.01 ~ 2023.02) 주말 아침 세션 스터디를 진행하며, [25번의 기술 관련 발표](https://dent-aurora-a21.notion.site/d43fd4a132234c028ad3a1500c97c5b1)를 진행했습니다.
