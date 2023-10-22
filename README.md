@@ -16,7 +16,7 @@
 
 #### FE Labs(2022.04 ~ ): Product Engineer(FE)
 
-Main Role: flex 웹 제품 개발 생산성/개발자 경험 향상, 사내 웹 프레임워크(podojs) 개발 및 유지보수, 웹 애플리케이션 서버 운영 관련 오퍼레이션
+<u>Main Role</u>: flex 웹 제품 개발 생산성/개발자 경험 향상, 기술 도입 검토 및 가설 검증, 사내 웹 프레임워크(podojs) 개발 및 유지보수, 웹 애플리케이션 서버 운영 관련 오퍼레이션
 
 - 기존 flex 웹 제품을 [런타임 통합 Micro Frontends 아키텍처](https://maxkim-j.github.io/posts/runtime-integration-micro-frontends)로 마이그레이션하는 8개월간의 과정(2022.07 ~ 2023.03)을 주도하여, 사용자/개발자 경험을 개선하고 빌드 성능을 앱당 평균 75% 개선했습니다.
 - Webpack Module Federation을 사용한 사내 Micro Frontends 웹 프레임워크인 podojs를 개발/유지보수하며, Micro App간 단방향 레이어 설계, Module Federation 런타임 리스크 완화, 앱 간 디커플링, fast refresh를 사용할 수 있는 로컬 개발 서버 개발 등 nodejs 런타임 기반의 다양한 업무를 수행했습니다.
@@ -29,7 +29,7 @@ Main Role: flex 웹 제품 개발 생산성/개발자 경험 향상, 사내 웹 
 
 #### Product Team(2021.01 ~ 2021.08): Web Frontend Engineer(Lead)
 
-Main Role: 패션 프리오더 커머스 웹(React)/ 모바일(React Native) 애플리케이션 개발 및 유지보수, 3명 규모 FE 팀 리드 역할 수행
+<u>Main Role</u>: 패션 프리오더 커머스 웹(React)/ 모바일(React Native) 애플리케이션 개발 및 유지보수, 3명 규모 FE 팀 리드 역할 수행
 
 - 유연하고 작은 디자인 시스템이 필요했던 팀의 실정에 맞게, 제품팀 설득을 통해 확고한 분류 기준을 가진 Atomic Design System 기반의 디자인 시스템을 해체하고 UI 컴포넌트 디렉토리 구조를 개선했습니다.
 - 모바일 앱을 로컬에서 빌드/배포하는 비효율적인 방식을 개선하기 위해, Github Actions, fastlane, codepush를 사용해 [React Native 모바일 앱 배포 파이프라인](https://maxkim-j.github.io/posts/react-native-ci-cd)을 구축했습니다.
@@ -43,7 +43,7 @@ Main Role: 패션 프리오더 커머스 웹(React)/ 모바일(React Native) 애
 
 #### Web Frontend Team(2020.07 ~ 2021.01): Web Frontend Engineer(Intern)
 
-Main Role: 여행 추천 웹앱 / 문자 주문 솔루션 백오피스 등 Vue.js를 이용한 웹앱 SI 개발
+<u>Main Role</u>: 여행 추천 웹앱 / 문자 주문 솔루션 백오피스 등 Vue.js를 이용한 웹앱 SI 개발
 
 - 백엔드 서버의 JSON 응답을 웹 제품에 맞게 명령적으로 가공하는 로직의 복잡성을 완화하기 위해, Typescript 객체를 메서드 체이닝 방식으로 수정할 수 있는 [functional-flattener](https://github.com/MaxKim-J/functional-flattener) npm 라이브러리를 제작해 배포하고 내부 어드민 제품에 적용했습니다.
 - 웹 프론트엔드 팀이 2명에서 5명으로 늘어남에 따라 팀원간 동일한 이해를 보장하기 위해, 팀 컨벤션과 코드 리뷰 규칙 등의 내용을 담은 프론트엔드팀 위키 문서를 작성했습니다.
