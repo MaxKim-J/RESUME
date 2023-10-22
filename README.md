@@ -14,7 +14,7 @@
 
 > **사람과 조직에 관한 문제를 해결하는 Human Relations Platform, HR B2B SaaS**
 
-### FE Labs(2022.04 ~ ): Product Engineer(FE)
+#### FE Labs(2022.04 ~ ): Product Engineer(FE)
 
 <u>Main Role</u>: flex 웹 제품 개발 생산성/개발자 경험 향상, 기술 도입 검토 및 가설 검증, 사내 웹 프레임워크(podojs) 개발 및 유지보수, 웹 애플리케이션 서버 운영 관련 오퍼레이션
 
