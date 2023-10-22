@@ -41,7 +41,7 @@
 
 > **글로벌 챗봇, 웹 커머스 개발/구축 서비스를 제공하는 IT Solution Provider**
 
-### Web Frontend Team(2020.07 ~ 2021.01): Web Frontend Engineer(Intern)
+#### Web Frontend Team(2020.07 ~ 2021.01): Web Frontend Engineer(Intern)
 
 Main Role: 여행 추천 웹앱 / 문자 주문 솔루션 백오피스 등 Vue.js를 이용한 웹앱 SI 개발
 
