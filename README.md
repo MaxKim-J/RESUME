@@ -57,7 +57,7 @@ _Main Role_: 여행 추천 웹앱 / 문자 주문 솔루션 백오피스 등 Vue
 
 ### Presentations
 
-- [[2023 FE Conf] 대형 웹 애플리케이션 Micro Frontends 전환기](https://youtu.be/gOHUasKN_A0?t=12812)(2023.10.21)
+- [[2023 FE Conf] 대형 웹 애플리케이션 Micro Frontends 전환기](https://www.youtube.com/watch?v=VnJLFwnuLV4)(2023.10.21)
 - [[2022 피로컨퍼런스] 내가 FE를 좋아하는 이유](https://www.youtube.com/watch?v=8vKSx9KXddI)(2022.02.28)
 
 ### Contributions
