@@ -19,10 +19,10 @@
 **Main Role**: flex 웹 제품(React) 개발 생산성/개발자 경험 향상, 기술 도입 검토 및 가설 검증, 사내 웹 프레임워크(podojs) 개발 및 유지보수, 웹 애플리케이션 서버 운영 관련 오퍼레이션
 
 - 기존 flex 웹 제품을 Nextjs에서 [런타임 통합 Micro Frontends 아키텍처](https://maxkim-j.github.io/posts/runtime-integration-micro-frontends)로 마이그레이션하는 8개월간의 과정(2022.07 ~ 2023.03)을 주도하여, 사용자/개발자 경험을 개선하고 빌드 성능을 앱당 평균 75% 개선했습니다.
-- Webpack Module Federation을 사용한 사내 Micro Frontends 웹 프레임워크인 podojs를 개발, 유지보수 했습니다. podojs에 Micro App 간 디커플링을 보장하고 런타임 에러를 방지하는 설계를 적용하고, fast refresh를 사용할 수 있는 로컬 개발 서버를 구성하는 등 nodejs 런타임 기반의 다양한 업무를 수행했습니다.
+- Webpack Module Federation을 사용한 사내 Micro Frontends 웹 프레임워크인 podojs에 기여했습니다. Micro App 간 디커플링을 보장하면서 런타임 에러를 방지하는 설계를 적용하고, fast refresh를 사용할 수 있는 로컬 개발 서버를 구성하는 등 nodejs 런타임 기반의 다양한 개발 업무를 수행했습니다.
 - 별다른 규칙 없이 코드베이스에 추가되던 환경변수의 혼란스러움을 개선하기 위해, 환경변수 카테고리 분류 및 타입을 정의하고 앱 기동시에 밸리데이션 스텝을 추가하는 등 환경변수 주입 프로세스를 정비했습니다.
-- Kubernetes, Docker 기반의 운영 환경에서 웹 클라이언트 애플리케이션에 필요한 오퍼레이션을 진행하며, 동료 FE 개발자들이 인프라 관련 설정 값 변경, [Nodejs 서버 모니터링](https://maxkim-j.github.io/posts/nodejs-server-monitoring)을 자체적으로 진행할 수 있도록 관련 가이드를 작성하는 등 업무 가시화에 기여했습니다.
-- 민감정보 열람시 2차 인증, 사용자 인터렉션 없을 때의 자동 로그아웃 등 인증 정보를 섬세하게 다루며 안전하고 정확한 동작을 보장해야 하는 인증/보안 기능들을 개발했습니다.
+- Kubernetes, Docker 기반의 운영 환경에서 웹 클라이언트 애플리케이션에 필요한 오퍼레이션을 진행하며, 동료 FE 개발자들이 인프라 관련 설정 값 변경, [nodejs 서버 모니터링](https://maxkim-j.github.io/posts/nodejs-server-monitoring)을 자체적으로 진행할 수 있도록 관련 가이드를 작성하는 등 업무 가시화에 기여했습니다.
+- [민감정보 열람시 2차 인증](https://updatenotes.flex.team/c48a7aea-25be-483e-a6d6-47cce979c05a), 사용자 인터렉션 없을 때의 자동 로그아웃 등 인증 정보를 섬세하게 다루며 안전하고 정확한 동작을 보장해야 하는 인증/보안 기능들을 개발했습니다.
 
 ### [모예(2021.01 ~ 2021.08)](https://thevc.kr/moye)
 
@@ -44,7 +44,7 @@
 
 #### Web Frontend Team(2020.07 ~ 2021.01): Web Frontend Engineer(Intern)
 
-_Main Role_: 여행 추천 웹앱 / 문자 주문 솔루션 백오피스 등 Vue.js를 이용한 웹앱 SI 개발
+**Main Role**: 여행 추천 웹앱 / 문자 주문 솔루션 백오피스 등 Vue.js를 이용한 웹앱 SI 개발
 
 - 백엔드 서버의 JSON 응답을 웹 제품에 맞게 명령적으로 가공하는 로직의 복잡성을 완화하기 위해, Typescript 객체를 메서드 체이닝 방식으로 수정할 수 있는 [functional-flattener](https://github.com/MaxKim-J/functional-flattener) npm 라이브러리를 제작해 배포하고 내부 어드민 제품에 적용했습니다.
 - 웹 프론트엔드 팀이 2명에서 5명으로 늘어남에 따라 팀원간 동일한 이해를 보장하기 위해, 팀 컨벤션과 코드 리뷰 규칙 등의 내용을 담은 프론트엔드팀 위키 문서를 작성했습니다.
