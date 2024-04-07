@@ -15,7 +15,7 @@ I'm Jonghyuk Kim (Max), a software engineer. I've been creating and operating we
 
 > **Human Relations Platform, HR B2B SaaS that solves problems about people and organizations**.
 
-#### FE Labs(2022.04 ~ ): Product Engineer (FE).
+#### Web Client Platform(2022.04 ~ ): Product Engineer(FE)
 
 **Main Role**: Improve flex web product (React) development productivity/developer experience, review technology adoption and validate hypotheses, develop and maintain in-house web framework (podojs), and operations related to web application server operations.
 
@@ -23,7 +23,7 @@ I'm Jonghyuk Kim (Max), a software engineer. I've been creating and operating we
 - Contributed to podojs, an in-house Micro Frontends web framework using Webpack Module Federation. Performed various development tasks based on the nodejs runtime, including applying designs to prevent runtime errors while ensuring decoupling between micro apps, and configuring a local development server to enable fast refresh.
 - Overhauled the environment variable injection process, including categorizing and typing environment variables and adding validation steps at app startup, to improve the chaos of environment variables being added to the codebase without any rules.
 - Performed operations required for web client applications in Kubernetes and Docker-based production environments, and contributed to work visibility by writing guides for fellow FE developers to change infrastructure-related settings and [nodejs server monitoring](https://maxkim-j.github.io/posts/nodejs-server-monitoring) on their own.
-- He has developed authentication/security features that require delicate handling of authentication information and ensure safe and correct behavior, such as [secondary authentication when viewing sensitive information](https://updatenotes.flex.team/c48a7aea-25be-483e-a6d6-47cce979c05a) and automatic logout when there is no user interaction.
+- Took the lead as the Web Product Performance TF Lead, contributing to a 34% improvement in the P75 LCP of the entire app, and spearheaded monitoring activities to ensure improved performance could be maintained by visualizing product performance indicators.
 
 ### [Moye (2021.01 ~ 2021.08)](https://thevc.kr/moye)
 
