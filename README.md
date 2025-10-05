@@ -20,9 +20,11 @@
 
 - 기존 flex 웹 제품을 Nextjs에서 [런타임 통합 Micro Frontends 아키텍처](https://maxkim-j.github.io/posts/runtime-integration-micro-frontends)로 마이그레이션하는 8개월간의 과정(2022.07 ~ 2023.03)을 주도하여, 사용자/개발자 경험을 개선하고 빌드 성능을 앱당 평균 75% 개선했습니다.
 - 아키텍처 마이그레이션 이후 남아있던 마이크로 프론트엔드 앱 간 코드 강결합을 메시징 인터페이스 등의 방식으로 점진적으로 해소하면서도 앱 간 하위호환을 엄격히 준수하는 릴리즈 계획을 수립하고 수행해 배포간 장애 발생 없이 앱 간 디커플링 수준을 높이고 기술부채를 상환하였습니다.
-- Webpack Module Federation 기반의 사내 Micro Frontends 웹 프레임워크 podojs를 시작하고 기여했습니다. nodejs 기반 서버, cli, 웹 클라이언트를 아우르는 프레임워크 인터페이스 설계, 빠른 개발을 위한 로컬 개발 서버를 구성하는 등 nodejs 런타임 기반의 다양한 개발 업무를 수행했습니다.
+- Webpack Module Federation 기반의 사내 Micro Frontends 웹 프레임워크 podojs를 시작하고 기여했습니다. [Webpack Module Federation Plugin를 규모가 큰 SaaS 웹 제품에 적용할 수 있도록 튜닝 및 사용례를 제한하며](https://maxkim-j.github.io/posts/module-federation-shared#%EC%8B%A4%EC%A0%9C-%EC%9A%B4%EC%98%81%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%93%B0%EB%8A%94%EA%B2%8C-%EC%A2%8B%EC%9D%84%EA%B9%8C), nodejs 기반 서버, cli, 웹 클라이언트를 아우르는 프레임워크 인터페이스 설계, 빠른 개발을 위한 로컬 개발 서버를 구성하는 등 nodejs 런타임 기반의 다양한 개발 업무를 수행했습니다.
 - Kubernetes, Docker 기반의 운영 환경에서 웹 클라이언트 애플리케이션에 필요한 오퍼레이션을 진행하며, 동료 FE 개발자들이 인프라 관련 설정 값 변경, [nodejs 서버 모니터링](https://maxkim-j.github.io/posts/nodejs-server-monitoring)을 자체적으로 진행할 수 있도록 관련 가이드를 작성하는 등 업무 가시화에 기여했습니다.
 - 웹 제품 성능향상 TF 리드를 맡아 6개월동안 flex 전체 웹 앱의 P75 LCP를 34% 개선하는데 기여하고, 향상된 성능이 유지될 수 있도록 제품 성능 지표 가시화를 위한 모니터링 활동을 주도했습니다.
+- 22개 웹앱과 500개의 패키지를 수용하고 30명이 개발하던 웹 프론트엔드 제품 모노레포를 [14개의 레포지토리로 쪼개는 1년간의 마이그레이션 과정을 설계하고 주도하여](), 모든 제품이 일주일에 단 한번만 나갈 수 있는 정기배포 프로세스 폐지에 기여하고 각 제품을 개발하는 개발자가 릴리즈 계획과 주기를 정할 수 있도록 하여 팀의 웹 제품 인도 과정의 병목 제거에 기여했습니다.
+- 5년여간 특별한 규칙 없이 관리되지 않은 모노레포 내 복잡한 패키지간 의존성을 정리하고, 단방향으로 의존할 수 있고 인지 가능하도록 마이그레이션하
 
 ### [모예(2021.01 ~ 2021.08)](https://thevc.kr/moye)
 
@@ -58,7 +60,8 @@
 
 ### Presentations
 
-- [[2023 FE Conf] 대형 웹 애플리케이션 Micro Frontends 전환기](https://www.youtube.com/watch?v=VnJLFwnuLV4)(2023.10.21)
+- [[2025 FEConf] 모노레포 절망편, 14개 레포로 부활하기까지 걸린 1년](https://youtu.be/Nqzjsdjgogo?si=owoZsEZzOsg9KkLk)(2025.08.23)
+- [[2023 FEConf] 대형 웹 애플리케이션 Micro Frontends 전환기](https://www.youtube.com/watch?v=VnJLFwnuLV4)(2023.10.21)
 - [[2022 피로컨퍼런스] 내가 FE를 좋아하는 이유](https://www.youtube.com/watch?v=8vKSx9KXddI)(2022.02.28)
 
 ### Contributions
